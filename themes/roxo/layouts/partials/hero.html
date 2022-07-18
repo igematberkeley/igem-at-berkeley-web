@@ -6,7 +6,9 @@
       <div class="row">
         <div class="col-lg-10 mx-auto">
           <div class="site-hero-content text-center">
-            <h6>{{ .tagline }}</h6>
+            <a class="navbar-brand" href="{{ .Site.BaseURL }}">
+              <img src="{{ "images/hero-logo.png" | absURL }}" alt="logo" />
+            </a>
             <h1>
               {{ .heading }}
             </h1>
@@ -20,23 +22,11 @@
                   </span>
                 </a>
               </li>
-              <li>
-                <a href="{{ .secondary_button_url | absURL }}" class="btn btn-primary">
-                  <span class="btn-area">
-                    <span data-text="{{ .secondary_button }}">
-                      {{ .secondary_button }}
-                    </span>
-                  </span>
-                </a>
-              </li>
             </ul>
           </div>
         </div>
       </div>
     </div>
-    <a href="#portfolio" class="site-hero-scroll scroll-to">
-      <img src="images/down-arrow.png" alt="arrow-down">
-    </a>
   </section>
   {{ "<!-- Site Hero End -->" | safeHTML }}
   {{ end }}

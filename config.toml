@@ -75,9 +75,9 @@ summarylength = 25
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/retreat.jpg"
-    heading               = "We are committed to synthetic biology research for students, by students. Join us for undergrad-led research, training programs, and a whole community of aspiring scientists!"
+    heading               = "is committed to synthetic biology research for students, by students. Join us for undergrad-led research, training programs, and a large community of aspiring scientists!"
     tagline               = "iGEM at Berkeley"
-    primary_button        = "See Our Works"
+    primary_button        = "Fall 2022 Info Sessions"
     primary_button_url    = "portfolio"
     secondary_button      = "Connect with Us"
     secondary_button_url  = "contact"
@@ -107,17 +107,20 @@ summarylength = 25
       [params.footer.sitemap]
         title   = "Sitemap"
         [[params.footer.sitemap.link]]
-          name = "About Company"
+          name = "About"
           url  = "about"
         [[params.footer.sitemap.link]]
-          name = "Projects"
-          url  = "portfolio"
-        [[params.footer.sitemap.link]]
-          name = "Blog"
+          name = "Experimental Teams"
           url  = "blog"
         [[params.footer.sitemap.link]]
-          name = "Contact"
-          url  = "contact"
+          name = "Training"
+          url  = "portfolio"
+        [[params.footer.sitemap.link]]
+          name = "Finance"
+          url  = "portfolio"
+        [[params.footer.sitemap.link]]
+          name = "Community"
+          url  = "portfolio"
       # Footer Social Media
       [params.footer.social]
         title   = "Social Media"
