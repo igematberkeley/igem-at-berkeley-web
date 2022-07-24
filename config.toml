@@ -101,7 +101,7 @@ summarylength = 25
     [params.footer.contactInfo]
       title   = "Contact Us"
       address = "University of California, Berkeley"
-      phone   = "818-731-9925"
+      phone   = ""
       email   = "directors@igem.berkeley.edu"
       # Footer Sitemap
       [params.footer.sitemap]
