@@ -1,4 +1,4 @@
-baseURL       = "http://igem.berkeley.edu/"
+baseURL       = "https://igem.berkeley.edu/"
 languageCode  = "en-us"
 title         = "iGEM at Berkeley"
 theme         = "roxo"
