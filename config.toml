@@ -8,8 +8,8 @@ summarylength = 25
 [menu]
   # Navbar Menus
   [[menu.nav]]
-    name    = "Home"
-    url     = ""
+    name    = "Training Team"
+    url     = "training"
     weight  = 1
   [[menu.nav]]
     name    = "Proposals"
@@ -85,20 +85,11 @@ summarylength = 25
       [params.footer.sitemap]
         title   = "Site Map"
         [[params.footer.sitemap.link]]
-          name = "About"
-          url  = "about"
+          name = "Training Team"
+          url  = "training"
         [[params.footer.sitemap.link]]
-          name = "Experimental Teams"
-          url  = "blog"
-        [[params.footer.sitemap.link]]
-          name = "Training"
-          url  = "portfolio"
-        [[params.footer.sitemap.link]]
-          name = "Finance"
-          url  = "portfolio"
-        [[params.footer.sitemap.link]]
-          name = "Community"
-          url  = "portfolio"
+          name = "Proposals"
+          url  = "proposals"
       # Footer Social Media
       [params.footer.social]
         title   = "Social Media"
