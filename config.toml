@@ -8,43 +8,21 @@ summarylength = 25
 [menu]
   # Navbar Menus
   [[menu.nav]]
-    name    = "About"
-    url     = "about"
+    name    = "Home"
+    url     = ""
     weight  = 1
-  # [[menu.nav]]
-    # name    = "Projects"
-    # url     = "portfolio"
-    # weight  = 2
   [[menu.nav]]
-    name    = "Experimental Teams"
-    url     = "blog"
+    name    = "Proposals"
+    url     = "proposals"
     weight  = 2
-  [[menu.nav]]
-    name    = "Training"
-    url     = "portfolio"
-    weight  = 3
-  [[menu.nav]]
-    name    = "Finance"
-    url     = "portfolio"
-    weight  = 4
-  [[menu.nav]]
-    name    = "Community"
-    url     = "portfolio"
-    weight  = 5
-  [[menu.nav]]
-    name    = "Join Us"
-    url     = "contact"
-    weight  = 6
 
 # Site Params
 [params]
   logo = "images/logo.png"
   dateFormat = "26 FEB 1994"
   # Meta data
-  description = "Roxo Hugo themes | Design Agency Template by StaticMania"
-  author = "StaticMania"
-  # Google Analitycs
-  googleAnalitycsID = "Your ID"
+  description = "iGEM at Berkeley"
+  author = "iGEM at Berkeley"
   # We're using formspree.io for form handling, paste your formspree url below
   formspreeFormUrl  = "https://formspree.io/myykjpje"
 
@@ -77,8 +55,8 @@ summarylength = 25
     background_image      = "images/backgrounds/retreat.jpg"
     heading               = "is committed to synthetic biology research for students, by students. Join us for undergrad-led research, training programs, and a large community of aspiring scientists!"
     tagline               = "iGEM at Berkeley"
-    primary_button        = "Fall 2022 Info Sessions"
-    primary_button_url    = "portfolio"
+    primary_button        = "Submit a Project Proposal!"
+    primary_button_url    = "proposals"
     secondary_button      = "Connect with Us"
     secondary_button_url  = "contact"
 
@@ -101,11 +79,11 @@ summarylength = 25
     [params.footer.contactInfo]
       title   = "Contact Us"
       address = "University of California, Berkeley"
-      phone   = ""
-      email   = "directors@igem.berkeley.edu"
-      # Footer Sitemap
+      phone   = "directors@igem.berkeley.edu"
+      email   = ""
+      # Footer Site Map
       [params.footer.sitemap]
-        title   = "Sitemap"
+        title   = "Site Map"
         [[params.footer.sitemap.link]]
           name = "About"
           url  = "about"
