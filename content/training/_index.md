@@ -5,13 +5,11 @@ image: images/blog/blog-post-01.jpg
 feature_image: images/blog/blog-details-image.jpg
 author: Alexender Schoitiz
 ---
-&nbsp;
-
 ### Our Purpose
 
 Our Training Team (also known as the Foundations in Engineering Biology DeCal) is a space for students to learn about the field of synthetic biology and acquire new, applicable skills for future scientific research. Geared towards students who are newer to the field, this is a one-semester, lecture and project-based course that will teach basic wet lab techniques, current computational and synthetic biology research, and the process of ideation. The course will cover a range of topics from how to conduct a literature review to the cloning workflow. Additionally, students will get the opportunity to participate in a three-week long Design Challenge created to promote collaboration and application of fundamentals in regards to performing literature search, conducting ideation, and presenting a project proposal to a panel of graduate students and peers. 
 
-![iGEM at Berkeley Training Team Directors](/images/training/training-team-directors.jpg "Training Team Directors")
+![iGEM at Berkeley Training Team Directors](/images/training/training-directors.JPG "Kylie and Arshia, our Training Team directors")
 
 ### Structure
 

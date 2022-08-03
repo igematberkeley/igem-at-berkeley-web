@@ -1,8 +1,18 @@
 ---
-title: "About Us"
-date: 2018-07-12T18:19:33+06:00
-heading : "WE ARE ROXO DESIGN. AN AWARD-WINNING CREATIVE STUDIO IN FLORIDA."
-description : "We are specialized in developing forward-thinking brand identities, websites, illustration and animation for all types of customers. And we do this by bringing our customers through each phase of the design process with us."
-expertise_title: "Expertise"
-expertise_sectors: ["Customer Experience Design", "Digital Products", "Development", "Campaign & Content", "Employer Branding", "Animation & Motion Graphics", "Packaging & Product Design", "Retail & Spacial", "Print & Editorial Design", "Concept/Text", "Information Design"]
+title: "About"
+date: 2019-12-24T13:40:00+06:00
+image: images/blog/blog-post-01.jpg
+feature_image: images/proposals/proposal-hero.jpg
+author: Alexender Schoitiz
 ---
+### Hello! We are iGEM at Berkeley.
+
+![iGEM at Berkeley Retreat](/images/about/retreat.jpg "iGEM at Berkeley")
+
+We're UC Berkeley's only hands-on genetic engineering club for undergraduates.
+Our mission is to provide undergraduates with the unique opportunity to perform original, student-led genetic engineering research projects. By building each student’s technical skillset, ability to work as a team, and passion in synthetic biology research, iGEM at Berkeley seeks to increase accessibility of the synthetic biology community to students of all backgrounds and research experience levels at Cal.
+
+&nbsp;
+
+> If you have any questions, feel free to reach out to us at <directors@igem.berkeley.edu>!
+

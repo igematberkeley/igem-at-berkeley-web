@@ -75,3 +75,10 @@
     background: darken($color: $secondary-color, $amount: 10);
   }
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}

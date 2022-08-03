@@ -8,13 +8,25 @@ summarylength = 25
 [menu]
   # Navbar Menus
   [[menu.nav]]
+    name    = "About"
+    url     = "about"
+    weight  = 1
+  [[menu.nav]]
+    name    = "Community"
+    url     = "community"
+    weight  = 2
+  [[menu.nav]]
+    name    = "Experimental Teams"
+    url     = "experimental"
+    weight  = 3
+  [[menu.nav]]
     name    = "Training Team"
     url     = "training"
-    weight  = 1
+    weight  = 4
   [[menu.nav]]
     name    = "Proposals"
     url     = "proposals"
-    weight  = 2
+    weight  = 5
 
 # Site Params
 [params]
@@ -53,9 +65,9 @@ summarylength = 25
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/retreat.jpg"
-    heading               = "is committed to synthetic biology research for students, by students. Join us for undergrad-led research, training programs, and a large community of aspiring scientists!"
+    heading               = "Join us for undergrad-led synthetic biology research, training programs, and a large community of aspiring scientists!"
     tagline               = "iGEM at Berkeley"
-    primary_button        = "Submit a Project Proposal!"
+    primary_button        = "Submit a Project Proposal"
     primary_button_url    = "proposals"
     secondary_button      = "Connect with Us"
     secondary_button_url  = "contact"
@@ -68,11 +80,11 @@ summarylength = 25
   [params.call_to_action]
     enable              = true
     background_image    = "images/backgrounds/cta-background.jpg"
-    title               = "LET’S WORK TOGETHER"
-    primary_button      = "Submit Query"
-    primary_button_url  = "contact"
-    secondary_button    = "Not Convinced"
-    secondary_button_url = "portfolio"
+    title               = "APPLY HERE"
+    primary_button      = "General Member"
+    primary_button_url  = "https://forms.gle/BrDoggP2xyuHnzmB9"
+    secondary_button    = "Experimental Team Member"
+    secondary_button_url = "https://forms.gle/RwXPNKDWhEAqHpZU8"
 
   [params.footer]
     # Footer Contact Info
@@ -84,6 +96,15 @@ summarylength = 25
       # Footer Site Map
       [params.footer.sitemap]
         title   = "Site Map"
+        [[params.footer.sitemap.link]]
+          name = "About"
+          url  = "about"
+        [[params.footer.sitemap.link]]
+          name = "Community"
+          url  = "community"
+        [[params.footer.sitemap.link]]
+          name = "Experimental Teams"
+          url  = "experimental"
         [[params.footer.sitemap.link]]
           name = "Training Team"
           url  = "training"

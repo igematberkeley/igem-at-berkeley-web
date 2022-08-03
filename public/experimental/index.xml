@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experimental Teams on iGEM at Berkeley</title>
+    <link>https://igem.berkeley.edu/experimental/</link>
+    <description>Recent content in Experimental Teams on iGEM at Berkeley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Dec 2019 20:17:01 +0600</lastBuildDate><atom:link href="https://igem.berkeley.edu/experimental/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cellyse</title>
+      <link>https://igem.berkeley.edu/experimental/cellyse/</link>
+      <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
+      
+      <guid>https://igem.berkeley.edu/experimental/cellyse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cheese Engineering</title>
+      <link>https://igem.berkeley.edu/experimental/cheese-engineering/</link>
+      <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
+      
+      <guid>https://igem.berkeley.edu/experimental/cheese-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CheRMiT</title>
+      <link>https://igem.berkeley.edu/experimental/chermit/</link>
+      <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
+      
+      <guid>https://igem.berkeley.edu/experimental/chermit/</guid>
+      <description>Manually updating and curating data on reactions from scientific literary is difficult and involves human curation. Our project integrates natural language processing, chem informative, and XX to automate this process and ensure valid chemical reactions are being extracted.</description>
+    </item>
+    
+    <item>
+      <title>Clonebots Assembly</title>
+      <link>https://igem.berkeley.edu/experimental/assembly/</link>
+      <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
+      
+      <guid>https://igem.berkeley.edu/experimental/assembly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clonebots Deletion</title>
+      <link>https://igem.berkeley.edu/experimental/deletion/</link>
+      <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
+      
+      <guid>https://igem.berkeley.edu/experimental/deletion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hallucinating Scaffolds</title>
+      <link>https://igem.berkeley.edu/experimental/hallucinating-scaffolds/</link>
+      <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
+      
+      <guid>https://igem.berkeley.edu/experimental/hallucinating-scaffolds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protein-Protein Interactions</title>
+      <link>https://igem.berkeley.edu/experimental/protein-protein-interactions/</link>
+      <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
+      
+      <guid>https://igem.berkeley.edu/experimental/protein-protein-interactions/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
