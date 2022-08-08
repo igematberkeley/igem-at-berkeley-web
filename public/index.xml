@@ -13,7 +13,7 @@
       <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
       
       <guid>https://igem.berkeley.edu/experimental/cellyse/</guid>
-      <description></description>
+      <description>Cellyse aims to implement an antibody-inducible system of cell lysis in a bacterium in hopes of increasing accessibility and affordability to antibody diagnostics. Our system utilizes the T4 phage cell lysis mechanism and a visible color change to clearly indicate the presence of a specific antibody in a non-invasive saliva sample.</description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@
       <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
       
       <guid>https://igem.berkeley.edu/experimental/cheese-engineering/</guid>
-      <description></description>
+      <description>Fungal contamination of soft cheeses, such as feta, poses a significant problem for organic cheese farms, resulting in major economic losses, potential health hazards from fungal mycotoxins, and quality reduction due to unnatural odors and flavors.</description>
     </item>
     
     <item>
@@ -40,7 +40,7 @@
       <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
       
       <guid>https://igem.berkeley.edu/experimental/assembly/</guid>
-      <description>Find our full poster here.</description>
+      <description>Our project focuses on creating a faster and more efficient way to perform traditional cloning methods. As opposed to traditional plasmid assembly methods that are performed in vitro, we aim to create a method that negates the need for plating in-between assembly steps.</description>
     </item>
     
     <item>
@@ -49,25 +49,7 @@
       <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
       
       <guid>https://igem.berkeley.edu/experimental/deletion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hallucinating Scaffolds</title>
-      <link>https://igem.berkeley.edu/experimental/hallucinating-scaffolds/</link>
-      <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
-      
-      <guid>https://igem.berkeley.edu/experimental/hallucinating-scaffolds/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Protein-Protein Interactions</title>
-      <link>https://igem.berkeley.edu/experimental/protein-protein-interactions/</link>
-      <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
-      
-      <guid>https://igem.berkeley.edu/experimental/protein-protein-interactions/</guid>
-      <description></description>
+      <description>The Clonebot Deletion team’s mission is to develop a more efficient way to knockout genes in bacteria. To do so, we are focusing on designing and cloning our way to a one-step plasmid system that cuts, trims, ligates, and self-clears with great accuracy using CRISPR-Cas12a.</description>
     </item>
     
     <item>

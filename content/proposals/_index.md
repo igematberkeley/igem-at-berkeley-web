@@ -15,6 +15,6 @@ With lab space, low-overhead access to lab reagents and compute resources, and v
 
 1. Some explanation of the background of your idea, and how what you're proposing might contribute to that work!
 2. A graduate student or postdoc that will mentor and provide advice on your project. Mentors are great sources of encouragement and feedback, and can help ensure your ideas are feasible!
-3. A rough timeline for your project, as well as an initial summary of the resources, wetlab or computational, that you will expect your experiments to use
+3. A rough timeline for your project, as well as an initial summary of the resources, wetlab or computational, that you will expect your experiments to use.
 
 > If you have any questions, [register to join our Slack](https://docs.google.com/forms/u/4/d/e/1FAIpQLSciPYdSDdNb4FvcPPpFazVGbXGj0E5AF2ZrsiZi8MT6jDlGfQ/viewform?usp=send_form) and ask on the #proposals channel! Submit a copy of the template filled out, by email to <directors@igem.berkeley.edu> by **August 24th**. We look forward to reading proposals and supporting your visions for new projects!
