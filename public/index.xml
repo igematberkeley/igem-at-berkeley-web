@@ -22,7 +22,7 @@
       <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
       
       <guid>https://igem.berkeley.edu/experimental/cheese-engineering/</guid>
-      <description>Fungal contamination of soft cheeses, such as feta, poses a significant problem for organic cheese farms. This results in major economic losses, potential health hazards from fungal mycotoxins, and quality reduction due to unnatural odors and flavors.</description>
+      <description>Fungal contamination of soft cheeses, such as feta, poses a significant problem for organic cheese farms.</description>
     </item>
     
     <item>
@@ -31,8 +31,7 @@
       <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
       
       <guid>https://igem.berkeley.edu/experimental/chermit/</guid>
-      <description>Manually updating and curating data on reactions from scientific literature is difficult and involves human curation.
-Our project integrates methods in language processing, cheminformatics, and machine learning to automate this process and ensure valid chemical reactions are being extracted.</description>
+      <description>Manually updating and curating data on reactions from scientific literature is difficult and involves human curation.</description>
     </item>
     
     <item>
@@ -41,7 +40,7 @@ Our project integrates methods in language processing, cheminformatics, and mach
       <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
       
       <guid>https://igem.berkeley.edu/experimental/assembly/</guid>
-      <description>Our project focuses on creating a faster and more efficient way to perform traditional cloning methods. As opposed to traditional plasmid assembly methods that are performed in vitro, we aim to create a method that negates the need for plating in-between assembly steps.</description>
+      <description>Our project focuses on creating a faster and more efficient way to perform traditional cloning methods.</description>
     </item>
     
     <item>
@@ -50,7 +49,7 @@ Our project integrates methods in language processing, cheminformatics, and mach
       <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
       
       <guid>https://igem.berkeley.edu/experimental/deletion/</guid>
-      <description>The Clonebot Deletion team’s mission is to develop a more efficient way to knockout genes in bacteria. To do so, we are focusing on designing and cloning our way to a one-step plasmid system that cuts, trims, ligates, and self-clears with great accuracy using CRISPR-Cas12a.</description>
+      <description>The Clonebot Deletion team’s mission is to develop a more efficient way to knockout genes in bacteria.</description>
     </item>
     
     <item>
@@ -68,7 +67,7 @@ Our project integrates methods in language processing, cheminformatics, and mach
       <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
       
       <guid>https://igem.berkeley.edu/experimental/ppi/</guid>
-      <description>The PPI team is interested in designing potentially therapeutic inhibitors targeting disease-inducing protein-protein interactions. We will focus on modeling protein and peptide-based inhibitors computationally, by using Rosetta but also designing our own algorithms to explore protein structure and prediction.</description>
+      <description>The PPI team is interested in designing potentially therapeutic inhibitors targeting disease-inducing protein-protein interactions.</description>
     </item>
     
     <item>
@@ -77,8 +76,7 @@ Our project integrates methods in language processing, cheminformatics, and mach
       <pubDate>Mon, 23 Dec 2019 20:56:42 +0600</pubDate>
       
       <guid>https://igem.berkeley.edu/portfolio/kio-tape-2/</guid>
-      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
-The watch has the following features:</description>
+      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.</description>
     </item>
     
     <item>
@@ -87,8 +85,7 @@ The watch has the following features:</description>
       <pubDate>Mon, 23 Dec 2019 15:58:10 +0600</pubDate>
       
       <guid>https://igem.berkeley.edu/portfolio/use-less-brand/</guid>
-      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
-The watch has the following features:</description>
+      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.</description>
     </item>
     
     <item>
@@ -97,8 +94,7 @@ The watch has the following features:</description>
       <pubDate>Mon, 23 Dec 2019 15:56:43 +0600</pubDate>
       
       <guid>https://igem.berkeley.edu/portfolio/osen-clock/</guid>
-      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
-The watch has the following features:</description>
+      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.</description>
     </item>
     
     <item>
@@ -107,8 +103,7 @@ The watch has the following features:</description>
       <pubDate>Mon, 23 Dec 2019 15:55:44 +0600</pubDate>
       
       <guid>https://igem.berkeley.edu/portfolio/seamless-watch/</guid>
-      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
-The watch has the following features:</description>
+      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.</description>
     </item>
     
     <item>
@@ -117,8 +112,7 @@ The watch has the following features:</description>
       <pubDate>Mon, 23 Dec 2019 15:44:46 +0600</pubDate>
       
       <guid>https://igem.berkeley.edu/portfolio/kio-tape/</guid>
-      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
-The watch has the following features:</description>
+      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.</description>
     </item>
     
   </channel>

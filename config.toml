@@ -2,7 +2,7 @@ baseURL       = "https://igem.berkeley.edu/"
 languageCode  = "en-us"
 title         = "iGEM at Berkeley"
 theme         = "roxo"
-summarylength = 20
+summarylength = 10
 
 # Site Menus
 [menu]
