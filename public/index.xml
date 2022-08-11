@@ -13,7 +13,7 @@
       <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
       
       <guid>https://igem.berkeley.edu/experimental/cellyse/</guid>
-      <description>Cellyse aims to implement an antibody-inducible system of cell lysis in a bacterium in hopes of increasing accessibility and affordability to antibody diagnostics. Our system utilizes the T4 phage cell lysis mechanism and a visible color change to clearly indicate the presence of a specific antibody in a non-invasive saliva sample.</description>
+      <description>Cellyse aims to implement an antibody-inducible system of cell lysis in a bacterium in hopes of increasing accessibility and affordability to antibody diagnostics.</description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@
       <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
       
       <guid>https://igem.berkeley.edu/experimental/cheese-engineering/</guid>
-      <description>Fungal contamination of soft cheeses, such as feta, poses a significant problem for organic cheese farms, resulting in major economic losses, potential health hazards from fungal mycotoxins, and quality reduction due to unnatural odors and flavors.</description>
+      <description>Fungal contamination of soft cheeses, such as feta, poses a significant problem for organic cheese farms. This results in major economic losses, potential health hazards from fungal mycotoxins, and quality reduction due to unnatural odors and flavors.</description>
     </item>
     
     <item>
@@ -31,7 +31,8 @@
       <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
       
       <guid>https://igem.berkeley.edu/experimental/chermit/</guid>
-      <description>Manually updating and curating data on reactions from scientific literary is difficult and involves human curation. Our project integrates natural language processing, chem informative, and XX to automate this process and ensure valid chemical reactions are being extracted.</description>
+      <description>Manually updating and curating data on reactions from scientific literature is difficult and involves human curation.
+Our project integrates methods in language processing, cheminformatics, and machine learning to automate this process and ensure valid chemical reactions are being extracted.</description>
     </item>
     
     <item>
@@ -50,6 +51,24 @@
       
       <guid>https://igem.berkeley.edu/experimental/deletion/</guid>
       <description>The Clonebot Deletion team’s mission is to develop a more efficient way to knockout genes in bacteria. To do so, we are focusing on designing and cloning our way to a one-step plasmid system that cuts, trims, ligates, and self-clears with great accuracy using CRISPR-Cas12a.</description>
+    </item>
+    
+    <item>
+      <title>Hallucinating Scaffolds</title>
+      <link>https://igem.berkeley.edu/experimental/hallucinating/</link>
+      <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
+      
+      <guid>https://igem.berkeley.edu/experimental/hallucinating/</guid>
+      <description>Our team focuses on de novo protein design. We are interested in designing scaffolds for enzymatic active sites that support catalytic activity (i.</description>
+    </item>
+    
+    <item>
+      <title>Protein-Protein Interactions</title>
+      <link>https://igem.berkeley.edu/experimental/ppi/</link>
+      <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
+      
+      <guid>https://igem.berkeley.edu/experimental/ppi/</guid>
+      <description>The PPI team is interested in designing potentially therapeutic inhibitors targeting disease-inducing protein-protein interactions. We will focus on modeling protein and peptide-based inhibitors computationally, by using Rosetta but also designing our own algorithms to explore protein structure and prediction.</description>
     </item>
     
     <item>
