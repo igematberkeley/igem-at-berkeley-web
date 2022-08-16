@@ -69,8 +69,8 @@ summarylength = 10
     tagline               = "iGEM at Berkeley"
     primary_button        = "Submit a Project Proposal"
     primary_button_url    = "proposals"
-    secondary_button      = "Connect with Us"
-    secondary_button_url  = "contact"
+    secondary_button      = "Breaking into Biosciences"
+    secondary_button_url  = "bib"
 
   [params.portfolio]
     enable    = true

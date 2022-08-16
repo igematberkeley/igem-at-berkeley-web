@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+<body style="background-color:#f0f9fa;">
+  <section class="site-blog details">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-lg-12">
+          <article class="site-blog-details">
+            <p>Fall 2022 Event</p>
+            <h2 class="blog-title">{{ .Title }}</h2>
+            {{ .Content }}
+          </article>
+        </div>
+      </div>
+    </div>
+  </section>
+</body>
+
+{{ end }}
