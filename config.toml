@@ -16,17 +16,21 @@ summarylength = 10
     url     = "community"
     weight  = 2
   [[menu.nav]]
+    name    = "Outreach"
+    url     = "outreach"
+    weight  = 3
+  [[menu.nav]]
     name    = "Experimental Teams"
     url     = "experimental"
-    weight  = 3
+    weight  = 4
   [[menu.nav]]
     name    = "Training Team"
     url     = "training"
-    weight  = 4
+    weight  = 5
   [[menu.nav]]
     name    = "Proposals"
     url     = "proposals"
-    weight  = 5
+    weight  = 6
 
 # Site Params
 [params]
@@ -103,6 +107,9 @@ summarylength = 10
           name = "Community"
           url  = "community"
         [[params.footer.sitemap.link]]
+          name = "Outreach"
+          url  = "outreach"
+        [[params.footer.sitemap.link]]
           name = "Experimental Teams"
           url  = "experimental"
         [[params.footer.sitemap.link]]
@@ -111,6 +118,9 @@ summarylength = 10
         [[params.footer.sitemap.link]]
           name = "Proposals"
           url  = "proposals"
+        [[params.footer.sitemap.link]]
+          name = "Breaking into Biosciences"
+          url  = "bib"
       # Footer Social Media
       [params.footer.social]
         title   = "Social Media"
