@@ -9,7 +9,7 @@ author: Alexender Schoitiz
 
 This means that all majors and experience levels are welcome! We understand that everyone comes in with different areas of knowledge and levels of experience, but we hope that all members in our organization will grow and develop the skills necessary to contribute to meaningful research.
 
-If you have any feedback or suggestions, please feel free to reach out to <directors@igem.berkeley.edu>. And to support this vibrant community, [join our Internal Team](https://forms.gle/BrDoggP2xyuHnzmB9).
+If you have any feedback or suggestions, please feel free to reach out to <directors@igem.berkeley.edu>. And to support this vibrant community, [join our Internal Team](https://docs.google.com/forms/d/e/1FAIpQLSdrP8mFTI1h3dSjzNdtZa4_1dTTYCp_pROTfnehFGH-GhlLKQ/viewform).
 
 &nbsp;
 
