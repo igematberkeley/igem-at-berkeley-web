@@ -75,8 +75,8 @@ summarylength = 10
     background_image      = "images/backgrounds/retreat.jpg"
     heading               = "Join us for undergrad-led synthetic biology research, training programs, and a large community of aspiring scientists!"
     tagline               = "iGEM at Berkeley"
-    primary_button        = "Submit a Project Proposal"
-    primary_button_url    = "proposals"
+    primary_button        = "Join iGEM"
+    primary_button_url    = "https://forms.gle/BrDoggP2xyuHnzmB9"
     secondary_button      = "Breaking into Biosciences"
     secondary_button_url  = "bib"
 
@@ -126,9 +126,6 @@ summarylength = 10
         [[params.footer.sitemap.link]]
           name = "DeCal"
           url  = "feb"
-        [[params.footer.sitemap.link]]
-          name = "Proposals"
-          url  = "proposals"
         [[params.footer.sitemap.link]]
           name = "Breaking into Biosciences"
           url  = "bib"
