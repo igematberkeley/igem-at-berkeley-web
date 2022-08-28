@@ -9,7 +9,7 @@ author: Alexender Schoitiz
 
 ![Speakers](/images/bib/bib-headshots.png "Breaking into Biosciences Speakers")
 
-*Vasudev Bailey, Junko Yano, Blake Riggs, Christopher Barnes, Meghna Gupta, James Nuñez*
+*Vasudev Bailey, Junko Yano, Blake Riggs, Christopher Barnes, Meghna Gupta, James Nuñez, Rajiv Patni*
 
 Please join us for our second event spotlighting success in STEM by people from nontraditional and underrepresented backgrounds. Meet our diverse lineup of speakers and hear them share stories of their personal careers and the barriers they had to overcome as a part of the biosciences community. Learn more about each of our speakers and their backgrounds:
 
@@ -62,7 +62,7 @@ Jogging, Knitting, Painting, Reading, and Watching Ninjago with my daughter.
 
 **Dr. Blake Riggs**
 
-Currently an Associate Professor in Cell Molecular Biology at San Francisco State University. It has been a long and difficult road in a toxic training environment that has not always valued diversity and equity in research. My mission is understand the organization of the cell and to train the next generation of diverse scientist to advance our understanding of the cell.
+Currently an Associate Professor in Cell Molecular Biology at San Francisco State University. It has been a long and difficult road in a toxic training environment that has not always valued diversity and equity in research. My mission is to understand the organization of the cell and to train the next generation of diverse scientists to advance our understanding of the cell.
 
 *Read more:* https://news.ucsc.edu/2016/03/riggs-blake.html, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8098826/ 
 
@@ -91,6 +91,12 @@ Dr. Nuñez is an Assistant Professor in the Molecular and Cell Biology Departmen
 The core interest of his research group is to understand the regulatory principles of the human genome. Specifically, they investigate the molecular principles underlying epigenetic memory and inheritance in mammalian cells: how do cells establish the ‘epigenome’ to dictate gene expression programs and genome organization; how is the epigenome maintained and remodeled as cells divide and differentiate; and how do defects in these pathways lead to disease? The Nuñez lab combines functional genomics CRISPR screens, cell biology, and biochemistry to answer their research questions. Concurrently, the Nuñez lab develops and applies CRISPR-based programmable technologies for editing the epigenome by writing/erasing DNA and histone modifications at any genomic locus, enabling perturbations of gene expression programs without changing the DNA sequence of the human genome.
 
 *Read more:* https://crosstalk.cell.com/blog/100-inspiring-hispanic-latinx-scientists-in-america
+
+&nbsp;
+
+**Dr. Rajiv Patni**
+
+Dr. Patni joined GBT in August 2020 as senior vice president and chief medical officer. He leads GBT’s clinical development organization, which encompasses clinical pharmacology, clinical operations biometrics, pharmacovigilance, drug safety and regulatory affairs. Prior to GBT, Dr. Patni was the chief medical officer for Portola Pharmaceuticals, where he developed and implemented the company’s global medical affairs strategy. He oversaw clinical studies of Andexxa® and the company’s pipeline programs. Before joining Portola, Dr. Patni was chief medical officer and then head of research and development at Adamas Pharmaceuticals, Inc. During his time at Adamas, he developed and led several departments, including research and development and medical affairs. He supported the clinical development program for Gocovri® and the company’s multiple sclerosis and epilepsy programs. Dr. Patni has held numerous other leadership positions, including chief development officer at Ocera Therapeutics, Inc., chief medical officer at Actelion Pharmaceuticals US, and product lifecycle team leader and therapeutic area head at Roche Pharmaceuticals. He also held senior roles at Pfizer Pharmaceuticals. He received an M.D. from the Mount Sinai School of Medicine and completed his residency at the Albert Einstein College of Medicine, where he served as an attending physician.
 
 &nbsp;
 
