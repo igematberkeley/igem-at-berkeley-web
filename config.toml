@@ -28,12 +28,12 @@ summarylength = 10
     url     = "experimental"
     weight  = 5
   [[menu.nav]]
-    name    = "Training Team"
-    url     = "training"
+    name    = "DeCal"
+    url     = "feb"
     weight  = 6
   [[menu.nav]]
-    name    = "Proposals"
-    url     = "proposals"
+    name    = "Breaking into Biosciences"
+    url     = "bib"
     weight  = 7
 
 # Site Params
@@ -124,8 +124,8 @@ summarylength = 10
           name = "Experimental Teams"
           url  = "experimental"
         [[params.footer.sitemap.link]]
-          name = "Training Team"
-          url  = "training"
+          name = "DeCal"
+          url  = "feb"
         [[params.footer.sitemap.link]]
           name = "Proposals"
           url  = "proposals"

@@ -35,6 +35,9 @@
       padding: 15px 18px;
       position: relative;
     }
+    &:hover{
+      text-decoration: underline;
+    }
     &:last-child{
       margin-left: 15px;
     }
