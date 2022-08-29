@@ -8,6 +8,7 @@
           <article class="site-blog-details">
             <p>Finance</p>
             <h2 class="blog-title">{{ .Title }}</h2>
+            <img class="feature-image" src="{{ .Params.feature_image | absURL }}" alt="blog-feature-image">
             {{ .Content }}
           </article>
         </div>

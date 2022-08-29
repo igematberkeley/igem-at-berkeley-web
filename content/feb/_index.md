@@ -7,7 +7,7 @@ author: Alexender Schoitiz
 ---
 ### Our Purpose
 
-Our Training Team (also known as the Foundations in Engineering Biology DeCal) is a space for students to learn about the field of synthetic biology and acquire new, applicable skills for future scientific research. Geared towards students who are newer to the field, this is a one-semester, lecture and project-based course that will teach basic wet lab techniques, current computational and synthetic biology research, and the process of ideation. The course will cover a range of topics from how to conduct a literature review to the cloning workflow. Additionally, students will get the opportunity to participate in a three-week long Design Challenge created to promote collaboration and application of fundamentals in regards to performing literature search, conducting ideation, and presenting a project proposal to a panel of graduate students and peers. 
+Our Training Team (also known as the [Foundations in Engineering Biology DeCal](https://classes.berkeley.edu/content/2022-fall-bioeng-98-003-grp-003)) is a space for students to learn about the field of synthetic biology and acquire new, applicable skills for future scientific research. Geared towards students who are newer to the field, this is a one-semester, lecture and project-based course that will teach basic wet lab techniques, current computational and synthetic biology research, and the process of ideation. The course will cover a range of topics from how to conduct a literature review to the cloning workflow. Additionally, students will get the opportunity to participate in a three-week long Design Challenge created to promote collaboration and application of fundamentals in regards to performing literature search, conducting ideation, and presenting a project proposal to a panel of graduate students and peers. 
 
 ![iGEM at Berkeley Training Team Directors](/images/training/training-directors.JPG "Kylie and Arshia, our Training Team directors")
 
@@ -21,11 +21,9 @@ Class will be held twice a week in the evening and taught by our Training Team D
 Training Team graduates are encouraged to apply to our existing wetlab or compbio experimental teams where they can apply the knowledge and research skills they have acquired to a student-led research project. For those interested in participating in a student-led team focused on idea generation and research proposal creation, we encourage applying to existing New Ideas teams or proposing your own idea!
 
 &nbsp;
-### Get Involved
+### Joining Training Team
 
-If you want to receive informational emails from us about Training Team, fill out this interest form! 
-To officially join Training Team, enroll in our Foundations in Engineering Biology DeCal on the DeCal website.
-Come out to our club-wide informational sessions insert logistical information
+To officially join Training Team, enroll in our Foundations in Engineering Biology DeCal on the DeCal website. If you want to learn more and meet the Training Team Directors, come to our [club-wide informational sessions on August 30 and September 1](https://www.instagram.com/p/ChsrB4UP7mc/). They will be held from 8:00 to 9:00 p.m. in [Moffitt Library Room 102](https://www.lib.berkeley.edu/sites/default/files/moff-allfloors.pdf).
 
 &nbsp;
 ### Contact
@@ -35,4 +33,4 @@ If you would like more information or have any questions, please contact the Tra
 &nbsp;
 ### History
 
-This is the third iteration of the Training Team, which originally began in Spring of 2021 as the Training Rotation Program (TRP) and only had about 15 students. The following year (Fall 2021), the program was revamped into the Training Team and hosted almost 100 students. This year, to encourage greater participation and limit extremely large class sizes, we have converted the program into a DeCal course under the name of Foundations in Engineering Biology (FEB). Internally, we still refer to this group of students as iGEM’s Training Team, but Foundations in Engineering Biology is the exact same thing. 
+This is the third iteration of the Training Team, which originally began in Spring of 2021 as the Training Rotation Program (TRP) and only had about 15 students. The following year (Fall 2021), the program was revamped into the Training Team and hosted almost 100 students. This year, to encourage greater participation and limit extremely large class sizes, we have converted the program into a DeCal course under the name of [Foundations in Engineering Biology (FEB)](https://classes.berkeley.edu/content/2022-fall-bioeng-98-003-grp-003). Internally, we still refer to this group of students as iGEM’s Training Team, but Foundations in Engineering Biology is the exact same thing. 
