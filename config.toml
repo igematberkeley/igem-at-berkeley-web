@@ -32,8 +32,8 @@ summarylength = 10
     url     = "feb"
     weight  = 6
   [[menu.nav]]
-    name    = "Breaking into Biosciences"
-    url     = "bib"
+    name    = "Join iGEM"
+    url     = "https://linktr.ee/igematberkeley"
     weight  = 7
 
 # Site Params
@@ -72,13 +72,13 @@ summarylength = 10
   # Banner Section
   [params.banner]
     enable                = true
-    background_image      = "images/backgrounds/retreat.jpg"
+    background_image      = "images/backgrounds/retreat.png"
     heading               = "Join us for undergrad-led synthetic biology research, training programs, and a large community of aspiring scientists!"
     tagline               = "iGEM at Berkeley"
-    primary_button        = "Join iGEM"
+    primary_button        = "General Member Registration"
     primary_button_url    = "https://forms.gle/BrDoggP2xyuHnzmB9"
-    secondary_button      = "Breaking into Biosciences"
-    secondary_button_url  = "bib"
+    secondary_button      = "Graduate Student Mentors"
+    secondary_button_url  = "http://bit.ly/igemgradmentor"
 
   [params.portfolio]
     enable    = true
@@ -88,11 +88,11 @@ summarylength = 10
   [params.call_to_action]
     enable              = true
     background_image    = "images/backgrounds/cta-background.jpg"
-    title               = "APPLY HERE"
-    primary_button      = "General Member"
+    title               = "GET INVOLVED"
+    primary_button      = "General Member Form"
     primary_button_url  = "https://forms.gle/BrDoggP2xyuHnzmB9"
-    secondary_button    = "Experimental Team Member"
-    secondary_button_url = "https://forms.gle/RwXPNKDWhEAqHpZU8"
+    secondary_button    = "Follow Our Instagram"
+    secondary_button_url = "https://instagram.com/igematberkeley"
     finance_primary_button      = "Join Our Team"
     finance_primary_button_url  = "finance-join-our-team"
     finance_secondary_button    = "Be A Partner"
@@ -126,9 +126,6 @@ summarylength = 10
         [[params.footer.sitemap.link]]
           name = "DeCal"
           url  = "feb"
-        [[params.footer.sitemap.link]]
-          name = "Breaking into Biosciences"
-          url  = "bib"
       # Footer Social Media
       [params.footer.social]
         title   = "Social Media"
