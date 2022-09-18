@@ -4,6 +4,22 @@
 
 ## For developers
 
-Publish new changes to the public site with the following code: hugo && rsync -avz --delete public/ igem@ssh.ocf.berkeley.edu:~/public_html/
+After cloning the repo, install Hugo to get started on working on the site. For macOS, run
+~~~
+brew install hugo
+~~~
+or
+~~~
+port install hugo
+~~~
+depending on your package manager of choice. For Windows installation instructions or troubleshooting, follow the guide [here](https://gohugo.io/getting-started/installing). To verify that the installation worked, run
+~~~
+hugo version
+~~~
 
-To do this, you will need the password for iGEM's OCF account.
+
+Now, you should be ready to start developing. In the "igem-at-berkeley-web" directory you cloned, run
+~~~
+hugo server
+~~~
+while you're editing the site to see the changes you're making reflected locally (usually at localhost:1313 in your browser of choice).
