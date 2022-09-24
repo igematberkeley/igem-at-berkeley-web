@@ -7,7 +7,7 @@ author: the exhausted external team
 ---
 ### This is the testing wiki page for iGEM @ Berkeley
 
-Because our GitLab is down :)
+Because our GitLab is down 😅
 
 &nbsp;
 
