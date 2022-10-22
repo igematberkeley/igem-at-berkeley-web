@@ -1,53 +1,29 @@
 {% extends "layout.html" %}
   
 {% block title %}Results{% endblock %}
-{% block lead %}You can describe the results of your project and your future plans here.{% endblock %}
 
 {% block page_content %}
 
-<div class="row mt-4">
-  <div class="col-lg-5">
-    <h2>What should this page contain?</h2>
-    <hr>
-    <ul>
-      <li>Clearly and objectively describe the results of your work.</li>
-      <li>Future plans for the project.</li>
-      <li>Considerations for replicating the experiments.</li>
-    </ul>
+<div class="col">
+  <h2>Wetlab</h2>
+  <hr>
+  <p>Saturation mutagenesis is proven to be successful from the sequencing results. We successfully created a library of mutants with randomized sequences but kept the -35 and -10 boxes - TTGACA and TATAAT - untouched as showcased below.</p>
+  <div class="row mt-4">
+    <img src="https://static.igem.wiki/teams/4394/wiki/sequencing.png" style="display: block;  margin-left: auto;  margin-right: auto; width: 50%; height: 50%;">
   </div>
-  <div class="col-lg-7">
-    <h2>Describe what your results mean</h2>
-    <hr>
-    <ul>
-      <li>Interpretation of the results obtained during your project. Don't just show a plot/figure/graph/other, tell us what you think the data means. This is an important part of your project that the judges will look for.</li>
-      <li>Show data, but remember <b>all measurement and characterization data must also be on the Part's Main Page on the <a href="http://parts.igem.org/Main_Page">Registry</a>.</b> Otherwise these data will not be in consideration for any medals or part awards!</li>
-      <li>Consider including an analysis summary section to discuss what your results mean. Judges like to read what you think your data means, beyond all the data you have acquired during your project.</li>
-    </ul>
+  <p style="margin-top: 20px;">Characterizing promoter strengths we retransformed successfully cloned plasmids, plated and picked four colonies per plate for scale-up liquid culturing. Reporter signal was measured 20 hours post-culturing. GFP emission strength was measured at 525 nm after excitation at 483 nm. All data was normalized as the ratio of relative fluorescence unit to cell density at OD600, and then normalized against the white, untransformed Mach1 cells as signal fold change in comparison to wild-type.</p>
+  <div class="row mt-4">
+    <img src="https://static.igem.wiki/teams/4394/wiki/pp6.png" style="display: block;  margin-left: auto;  margin-right: auto; width: 50%; height: 50%;">
   </div>
-</div>
+  <p style="margin-top: 20px;">The result showcased greater variance than expected. Out of the small batch of 12 hits, the standard deviation of the mean standardized fluorescence across different mutants arrived at 55%. This significant variance shed light on how mutating sequential contexts of established robust promoters might lead to the discovery of promoters that are even more potent. For future experiments, we will screen for more mutants and run characterization in comparison with the established J23199 strong constitutive promoter.</p>
 
-<div class="row mt-4">
-  <div class="col-lg-8">
-    <h2>Project Achievements</h2>
-    <hr>
-    <p>You can also include a list of bullet points (and links) of the successes and failures you have had over your summer. It is a quick reference page for the judges to see what you achieved during your summer.</p>
-    <ul>
-      <li>A list of linked bullet points of the successful results during your project</li>
-      <li>A list of linked bullet points of the unsuccessful results during your project. This is about being scientifically honest. If you worked on an area for a long time with no success, tell us so we know where you put your effort.</li>
-    </ul>
-  </div>
-  <div class="col-lg-4">
-    <h2>Inspirations</h2>
-    <hr>
-    <ul>
-      <li><a href="https://2019.igem.org/Team:Newcastle/Results">2019 Newcastle</a></li>
-      <li><a href="https://2019.igem.org/Team:Munich/Results">2019 Munich</a></li>
-      <li><a href="https://2019.igem.org/Team:Tec-Chihuahua/Results">2019 Tec Chihuahua</a></li>
-      <li><a href="https://2020.igem.org/Team:Aalto-Helsinki/Results">2020 Aalto Helsinki</a></li>
-      <li><a href="https://2020.igem.org/Team:GreatBay_SCIE/Results">2020 GreatBay SCIE</a></li>
-      <li><a href="https://2020.igem.org/Team:Queens_Canada/Results">2020 Queens Canada</a></li>
-    </ul>
-  </div>
+  <h2 style="margin-top: 35px;">Computational Biology</h2>
+  <hr>
+  <h4>Hallucinating Scaffolds Data</h4>
+  <p>See the mutation heatmaps from our Hallucinating Scaffolds team below, as well as the <a href="https://github.com/igematberkeley/compbio-training/blob/main/A_scanning_4dgk.ipynb">relevant Jupyter notebook on our GitHub</a>. You can also view the <a href="https://static.igem.wiki/teams/4394/wiki/secondary-structure-traces.pdf">PSIPRED secondary structure predictions</a> and <a href="https://static.igem.wiki/teams/4394/wiki/disorder-traces.pdf">IUPred disorder predictions</a>.</p>
+  <img src="https://static.igem.wiki/teams/4394/wiki/disorder-heat-map.png" style="display: block;  margin-left: auto;  margin-right: auto; width: 50%; height: 50%;">
+  <img src="https://static.igem.wiki/teams/4394/wiki/sse-heat-map.png" style="display: block;  margin-left: auto;  margin-right: auto; width: 50%; height: 50%;">
+  <img src="https://static.igem.wiki/teams/4394/wiki/ssh-heat-map.png" style="display: block;  margin-left: auto;  margin-right: auto; width: 50%; height: 50%;">
 </div>
 
 <div class="loader-wrapper">
