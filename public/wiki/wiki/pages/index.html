@@ -1,0 +1,59 @@
+{% extends "layout.html" %}
+
+{% block title %}The Training Sprint{% endblock %}
+{% block lead %}Creating Research Accessibility at Scale by Diversifying High-Expression Promoters and Generating Computational Screens{% endblock %}
+
+{% block page_content %}
+<div class="row">
+  <div class="col">
+    <h1 class="text-center" style="margin-bottom: 30px">iGEM at Berkeley has taken an unprecedented <br> approach to the iGEM competition.</h1>
+    <hr>
+
+    <div class="row" style="margin-top: 50px;">
+      <div class="span4">
+        <img class="img-left rounded-corners" src="https://static.igem.wiki/teams/4394/wiki/katie.png"/>
+        <div class="content-heading"><h2>We've fostered seven experimental teams—four wetlab and three computational.</h1></div>
+          <p>With seven teams, we can provide over 70 students with opportunities to do completely undergraduate-led research, asking and answering the questions they find most compelling in the genetic engineering space.</p>
+      </div>
+    </div>
+
+    <div class="row" style="margin-top: 100px;">
+      <div class="span4">
+        <img class="img-right rounded-corners" src="https://static.igem.wiki/teams/4394/wiki/ideation.png"/>
+        <div class="content-heading"><h2>We've incubated teams <br> dedicated to ideation.</h1></div>
+          <p>These nascent teams can grow their ideas to become experimental teams, work in other labs, or evolve into startups.</p>
+      </div>
+    </div>
+
+    <h2 class="text-center" style="margin-top: 100px;">We also host a course for and by undergrads—Foundations in Engineering Biology.</h1>
+    <p class="text-center">The class, open to all students, functions as a practical stepping stone into the world of synthetic biology with hands-on wetlab and computational experience.</p>
+    <div class="row mt-4">
+      <img class="image rounded-corners" src="https://static.igem.wiki/teams/4394/wiki/decal.jpeg" alt="Our Fall 2022 Foundations in Engineering Biology class" style="display: block; max-width: 70%; height: auto; margin-left: auto;  margin-right: auto;">
+    </div>
+
+    <p class="text-center" style="margin-top: 50px;">Our inaugural submission to iGEM highlights our organization's unique structure with a novel, at-scale experimental workflow that both teaches the basics of working in the wetlab or computational work and generates new data with every repeat. DUPLICATE brings forward our mission to produce novel data and foster new scientists. We hope you enjoy exploring our work and it inspires more iGEM teams to reimagine the traditional iGEM format for greater equity and inclusion</p>
+  </div>
+</div>
+
+<div class="loader-wrapper">
+  <div class="loader"> 
+    <img src="https://static.igem.wiki/teams/4394/wiki/test/loading.gif"
+      width = "300"
+      height = "300">
+  </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"> </script>
+<script>
+  $(window).on('load', function(){
+    setTimeout(removeLoader, 1000); //wait for page load PLUS two seconds.
+  });
+  function removeLoader(){
+    $( ".loader-wrapper" ).fadeOut(500, function() {
+      // fadeOut complete. Remove the loading div
+      $( ".loader-wrapper" ).remove(); //makes page more lightweight 
+  });   
+}
+</script>
+
+{% endblock %}

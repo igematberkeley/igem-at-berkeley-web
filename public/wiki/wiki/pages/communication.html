@@ -1,0 +1,76 @@
+{% extends "layout.html" %}
+  
+{% block title %}Communication{% endblock %}
+
+{% block page_content %}
+
+<div class="col">
+  <h2>Our Class: Foundations of Engineering Biology</h2>
+  <hr>
+  <p>Our class, Foundations in Engineering Biology, is a space for students to learn about the field of synthetic biology and acquire new, applicable skills for future scientific research. Geared towards students who are newer to the field, this is a one-semester, lecture and project-based course that will teach basic wet lab techniques, current computational and synthetic biology research, and the process of ideation. The course will cover a range of topics from how to conduct a literature review to the cloning workflow. Additionally, students will get the opportunity to participate in a three-week long Design Challenge created to promote collaboration and application of fundamentals in regards to performing literature search, conducting ideation, and presenting a project proposal to a panel of graduate students and peers.</p>
+
+  <div class="bd-callout bd-callout-info" style="margin-top: 35px;">
+    <h4>Syllabus</h4>
+    <p>"Synthetic biology is the engineering of organisms to create new abilities or redesign existing systems that will help solve problems in the fields of medicine, sustainability, manufacturing, agriculture, and more. Offered through iGEM at Berkeley, this course will introduce students to the field of synthetic biology and cover topics ranging from literature review to the cloning workflow. Students will learn about basic wet lab techniques, current computational and synthetic biology research, and the process of ideation. The final project will be a three-week long Design Challenge in which teams of students will perform literature search, conduct ideation, and present a project proposal to a panel of graduate students and peers."
+      <br>
+      <br>
+      Find our <a href="https://decal.berkeley.edu/courses/6390">official course listing on Berkeley's DeCal site</a>, the home for student-run courses on campus.
+    </p>
+  </div>
+  
+
+  <h4 style="margin-top: 35px;">See Our Fall 2022 Cohort in Action</h4>
+  <div class="row mt-4">
+    <img class="image rounded-corners" src="https://static.igem.wiki/teams/4394/wiki/decal1.jpeg" style="display: block;  margin-left: auto;  margin-right: auto; width: 50%; height: 50%;">
+    <img class="image rounded-corners" src="https://static.igem.wiki/teams/4394/wiki/decal3.png" style="display: block;  margin-left: auto;  margin-right: auto; width: 50%; height: 50%;">
+  </div>
+  <div class="row mt-4" style="margin-top: 35px;">
+    <img class="image rounded-corners" src="https://static.igem.wiki/teams/4394/wiki/decal4.png" style="display: block;  margin-left: auto;  margin-right: auto; width: 50%; height: 50%;">
+    <img class="image rounded-corners" src="https://static.igem.wiki/teams/4394/wiki/decal2.jpeg" style="display: block;  margin-left: auto;  margin-right: auto; width: 50%; height: 50%;">
+  </div>
+
+  <h2 style="margin-top: 50px;">Panel: Breaking into Biosciences</h2>
+  <hr>
+  <p>Our semesterly Breaking into Biosciences panels are open to everyone and completely free of charge. These events are moderated Q&As with reputable faculty members, industry leaders, and graduate students from nontraditional and underrepresented backgrounds in STEM. Our speakers will share stories of their personal careers and barriers they had to overcome as a part of the biosciences community. Through this panel, we hope to foster meaningful conversations about tackling these barriers to research careers. This semester, Breaking into Biosciences featured:
+    <br>
+      <ul>
+        <li>Dr. James K Nunez: Professor of Biochemistry, Biophysics, and Structural Biology at UC Berkeley</li>
+        <li>Dr. Blake Riggs: Professor of Molecular and Cellular Biology at San Francisco State University</li>
+        <li>Dr. Junko Yano: Senior Scientist of Molecular Biophysics and Integrated Bioimaging at Berkeley Lab</li>
+        <li>Dr. Vasudev Bailey: Senior Partner at ARTIS Ventures, focusing on investment in novel and breakthrough health and life sciences companies</li>
+        <li>Dr. Christopher Barnes: Professor of Biology at Stanford University</li>
+        <li>Dr. Meghna Gupta: UCSF School of Medicine Specialist in Biochemistry and Biophysics</li>
+        <li>Dr. Rajiv Patni: Chief Medical Officer at Global Blood Therapeutics</li>
+      </ul>
+      Breaking into Biosciences's impact is far-reaching, with attendees including high schoolers, researchers, and community college students all over the San Francisco Bay Area. These events are made possible through close collaboration with <a href="https://www.berkeleyforum.org">Berkeley Forum</a> and the generosity of the <a href="https://innovativegenomics.org">Innovative Genomics Institute (IGI)</a> at the University of California, Berkeley and the University of California, San Francisco.
+    <br>
+  </p>
+
+  <div class="row mt-4" style="margin-top: 35px;">
+    <img class="image rounded-corners" src="https://static.igem.wiki/teams/4394/wiki/bib.png" style="display: block;  margin-left: auto;  margin-right: auto; width: 50%; height: 50%;">
+    <img class="image rounded-corners" src="https://static.igem.wiki/teams/4394/wiki/bibturnout.jpg" style="display: block;  margin-left: auto;  margin-right: auto; width: 40%; height: 40%;">
+  </div>
+</div>
+
+<div class="loader-wrapper">
+  <div class="loader"> 
+    <img src="https://static.igem.wiki/teams/4394/wiki/test/loading.gif"
+      width = "300"
+      height = "300">
+  </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"> </script>
+<script>
+  $(window).on('load', function(){
+    setTimeout(removeLoader, 0); //wait for page load PLUS two seconds.
+  });
+  function removeLoader(){
+    $( ".loader-wrapper" ).fadeOut(500, function() {
+      // fadeOut complete. Remove the loading div
+      $( ".loader-wrapper" ).remove(); //makes page more lightweight 
+  });   
+}
+</script>
+
+{% endblock %}

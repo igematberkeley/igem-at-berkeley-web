@@ -1,0 +1,103 @@
+{% extends "layout.html" %}
+  
+{% block title %}Attributions{% endblock %}
+
+{% block page_content %}
+
+<div class="col">
+  <h2>Experimental Directors</h2>
+  <hr>
+  <p>Designed, led, and coordinated the DUPLICATE workflow.</p>
+  <ul>
+    <li>Elena Mujica</li>
+    <li>Michael Ni</li>
+    <li>Mrunali Manjrekar</li>
+    <li>Cassie Areff</li>
+  </ul>
+  <h2 style="margin-top: 35px;">Wetlab Supervisors</h2>
+  <hr>
+  <p>Performed and trouble-shooted the wetlab side of the DUPLICATE workflow and supervised wetlab student work in lab.</p>
+  <ul>
+    <li>Lukas Koller</li>
+    <li>Peiwen Xiao</li>
+    <li>Kaitlyn Wang</li>
+    <li>Meera Kashyap</li>
+    <li>Alvie Kam</li>
+    <li>Jacob Rulison</li>
+    <li>Ella Ramamurthy</li>
+    <li>Samhita Nittala</li>
+  </ul>
+  <h2 style="margin-top: 35px;">Compbio Project Leads</h2>
+  <hr>
+  <p>Developed project-specific notebooks of the computational side of the DUPLICATE workflow, troubleshooted students’ completion of the notebooks, and performed analyses of team-collected data.</p>
+  <ul>
+    <li>Bryan Hsu (CheRMiT)</li>
+    <li>Max Lee (CheRMiT)</li>
+    <li>Angelica Lam (Hallucinating Scaffolds)</li>
+    <li>Fenmiao Zhong (Hallucinating Scaffolds)</li>
+    <li>Ivan Wang (Hallucinating Scaffolds)</li>
+    <li>George Rickus (Protein-Protein Interactions)</li>
+    <li>Jessica Lin (Protein-Protein Interactions)</li>
+  </ul>
+  <h2 style="margin-top: 35px;">Student Researchers</h2>
+  <hr>
+  <p>Completed the wetlab DUPLICATE workflow and generated novel UBER promoter sequences.</p>
+  <ul>
+    <li>Adam Kazerounian</li>
+    <li>Albert Qiang</li>
+    <li>Amad Jalil</li>
+    <li>Andhika Tirtawisata</li>
+    <li>Anika Hauser</li>
+    <li>Anya Raju</li>
+    <li>Arshia Deep</li>
+    <li>Arthi Vaidyanathan</li>
+    <li>Bailey Daymo</li>
+    <li>Edward Pandji</li>
+    <li>Gabriela Castellanos</li>
+    <li>George Balazs</li>
+    <li>Hanen Su</li>
+    <li>Isabella Murray</li>
+    <li>Isabella Solorzano</li>
+    <li>Jacob Spiegel</li>
+    <li>Justin Im</li>
+    <li>Katie Fang</li>
+    <li>Katie Sie</li>
+    <li>Kenneth Loi</li>
+    <li>Melissa Zhou</li>
+    <li>Milo Scola</li>
+    <li>Nicole Klein</li>
+    <li>Nikhit Kambdur</li>
+    <li>Pat Taedullayasatit</li>
+    <li>Pritika Acharya</li>
+    <li>Rohan Rattan</li>
+    <li>Ryan Idnani</li>
+    <li>Shing Gao</li>
+    <li>Timur Bekdjanov</li>
+  </ul>
+  <h2 style="margin-top: 35px;">Club Advisor</h2>
+  <hr>
+  <p>Professor John Christopher Anderson.</p>
+</div>
+
+<div class="loader-wrapper">
+  <div class="loader"> 
+    <img src="https://static.igem.wiki/teams/4394/wiki/test/loading.gif"
+      width = "300"
+      height = "300">
+  </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"> </script>
+<script>
+  $(window).on('load', function(){
+    setTimeout(removeLoader, 0); //wait for page load PLUS two seconds.
+  });
+  function removeLoader(){
+    $( ".loader-wrapper" ).fadeOut(500, function() {
+      // fadeOut complete. Remove the loading div
+      $( ".loader-wrapper" ).remove(); //makes page more lightweight 
+  });   
+}
+</script>
+
+{% endblock %}

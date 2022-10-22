@@ -1,0 +1,81 @@
+@font-face {
+    font-family: 'Rubik';
+    src: url(https://static.igem.wiki/teams/4394/wiki/rubik-variablefont-wght.ttf);
+}
+
+
+body {
+    font-family: 'Rubik', sans-serif;
+    font-size: 1rem;
+    overflow-x: hidden;
+}
+
+
+body { padding-top: 56px; }
+.left-aligned { margin-left: auto; }
+.bg-dark { background-color: #220D44 !important; }
+.bg-hero { background-image: url("https://static.igem.wiki/teams/4394/wiki/blurry.gif"); background-size: 100% auto; }
+
+/* CALLOUT */
+.bd-callout { padding:1.25rem; margin-top:1.25rem; margin-bottom:1.25rem; border:1px solid #e9ecef; border-left-width:.25rem; border-radius:.25rem }
+.bd-callout h4 { margin-bottom:.25rem }
+.bd-callout p:last-child { margin-bottom:0 }
+.bd-callout code { border-radius:.25rem }
+.bd-callout+.bd-callout { margin-top:-.25rem }
+.bd-callout-info { border-left-color:#5bc0de }
+.bd-callout-warning { border-left-color:#f0ad4e }
+.bd-callout-danger { border-left-color:#d9534f }
+
+/* Profiles in Team Page */
+.img-thumbnail {
+    padding: .25rem;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: .25rem;
+    max-width: 100%;
+    height: auto;
+}
+
+img.rounded-corners {
+    border-radius: 40px;
+}
+
+.span4 img {
+    margin-right: 75px;
+    margin-left: 75px;
+    max-width: 40%;
+    height: auto;
+}
+.span4 .img-left {
+    float: left;
+}
+.span4 .img-right {
+    float: right;
+}
+
+.loader-wrapper {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    display: block;
+    align-items: center;
+    z-index: 999999;
+    overflow: hidden;
+}
+
+.loader{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    z-index: 9999999
+}
+
+/* footer */
+footer a { color: white; text-decoration: none; display: inline-block; width: 100%; }
+footer a:hover { color: white; text-decoration: underline; }

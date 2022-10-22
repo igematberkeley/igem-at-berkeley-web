@@ -1,0 +1,41 @@
+{% extends "layout.html" %}
+  
+{% block title %}Proposed Implementation{% endblock %}
+{% block lead %}Explain how you would implement your project in the real world.{% endblock %}
+
+{% block page_content %}
+
+<div class="row mt-4">
+  <div class="col">
+    <div class="bd-callout bd-callout-info">
+      <h4>Silver Medal Criterion #4</h4>
+      <p>Explain how you would implement your project in the real world.<p>
+      <hr>
+      <p>Please see the <a href="https://competition.igem.org/judging/medals">2022 Medals Page</a> for more information.</p>
+    </div>
+  </div>
+</div>
+
+<div class="loader-wrapper">
+  <div class="loader"> 
+    <img src="https://static.igem.wiki/teams/4394/wiki/test/loading.gif"
+      width = "300"
+      height = "300">
+  </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"> </script>
+<script>
+  $(window).on('load', function(){
+    setTimeout(removeLoader, 0); //wait for page load PLUS two seconds.
+  });
+  function removeLoader(){
+    $( ".loader-wrapper" ).fadeOut(500, function() {
+      // fadeOut complete. Remove the loading div
+      $( ".loader-wrapper" ).remove(); //makes page more lightweight 
+  });   
+}
+</script>
+
+
+{% endblock %}

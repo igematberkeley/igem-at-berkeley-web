@@ -1,0 +1,32 @@
+{% extends "layout.html" %}
+  
+{% block title %}Diversity and Inclusion{% endblock %}
+
+{% block page_content %}
+
+<div class="col">
+  <h2>Our Demographics</h2>
+  <hr>
+  <p>iGEM at Berkeley is the largest student-run research organization on campus, and we see this as a responsibility to be uncompromising on diversity and inclusion. Accessbility is at the heart of our organization, and we're proud of the progress we've made to make research within reach for students from underrepresented and nontraditional backgrounds while acknowledging the work that remains.</p>
+  <div class="row mt-4">
+    <img class="image rounded-corners" src="https://static.igem.wiki/teams/4394/wiki/gender.png" alt="Club Gender Breakdown" style="display: block;  margin-left: auto;  margin-right: auto; width: 50%; height: 50%;">
+    <img class="image rounded-corners" src="https://static.igem.wiki/teams/4394/wiki/race.png" alt="Club Gender Breakdown" style="display: block;  margin-left: auto;  margin-right: auto; width: 50%; height: 50%;">
+  </div>
+  <p style="margin-top: 20px;">These results are from our completely anonymous, voluntary demographic survey, covering a large sample size of our 400+ member organization. This survey was conducted in the fall of 2021.</p>
+
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"> </script>
+<script>
+  $(window).on('load', function(){
+    setTimeout(removeLoader, 0); //wait for page load PLUS two seconds.
+  });
+  function removeLoader(){
+    $( ".loader-wrapper" ).fadeOut(500, function() {
+      // fadeOut complete. Remove the loading div
+      $( ".loader-wrapper" ).remove(); //makes page more lightweight 
+  });   
+}
+</script>
+
+{% endblock %}

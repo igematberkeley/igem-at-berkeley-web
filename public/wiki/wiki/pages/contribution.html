@@ -1,0 +1,35 @@
+{% extends "layout.html" %}
+  
+{% block title %}Contribution{% endblock %}
+{% block lead %}Make a useful contribution for future iGEM teams. Use this page to document that contribution.{% endblock %}
+
+{% block page_content %}
+
+<div class="col">
+  <h2>The UBER System</h2>
+  <hr>
+  <p>Adding a piece to the established UBER system, we provide a proof of concept for how UBER can be applied even more universally to organisms that are once difficult to tackle due to a lack of a library with promoters of different strengths. Our project shed light on how future researchers can build upon the UBER framework using our screening workflow. For the iGEM community, we contribute 52 distinct promoter sequences for the J23100 promoter family. Synthetic biology researchers can utilize our library to construct genetic expression designs on different transcriptional strengths.</p>
+</div>
+
+<div class="loader-wrapper">
+  <div class="loader"> 
+    <img src="https://static.igem.wiki/teams/4394/wiki/test/loading.gif"
+      width = "300"
+      height = "300">
+  </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"> </script>
+<script>
+  $(window).on('load', function(){
+    setTimeout(removeLoader, 0); //wait for page load PLUS two seconds.
+  });
+  function removeLoader(){
+    $( ".loader-wrapper" ).fadeOut(500, function() {
+      // fadeOut complete. Remove the loading div
+      $( ".loader-wrapper" ).remove(); //makes page more lightweight 
+  });   
+}
+</script>
+
+{% endblock %}

@@ -1,0 +1,64 @@
+{% extends "layout.html" %}
+  
+{% block title %}Introduction{% endblock %}
+
+{% block page_content %}
+
+<div class="col">
+  <h2>Wetlab</h2>
+  <hr>
+  <p>Modern approaches to engineering complex genetic circuitry increasingly necessitates the use of multi-gene cassettes[X]. Such cassettes allow for the coordination of expression for several genes simultaneously, facilitating the development of unique biosynthetic and/or regulatory systems in vivo. When designing these multi-operon circuits, diversification of paired  promoter-terminator sequences is crucial to prevent homologous recombination, as the repeated promoter sequences may be recombined in an unexpected order, nullifying the cassette [X]. 
+
+    The Anderson promoter set, characterized in the Registry of Standard Biological Parts[2], spans a 1000-fold range of expression from a small combinatorial library. These promoters were derived by diversifying the consensus region of the σ70 RNA polymerase subunit, allowing for fine-tuned control of σ70 affinity[X]. This promoter family, though, does not have varied promoters of comparable strengths that could be used in multi-operon circuits.
+    
+    We propose an at-scale screening system for identifying promoter sequences with different strengths, beginning by screening for high-expression promoters, followed by the generation of libraries from promising hits. To do so, we perform saturated mutagenesis on the sequential context within and surrounding the σ70 consensus region. This process can be repeated indefinitely to yield new promoters of desired strengths. As randomization of this region enables surprising variance in expression strength of the downstream ORF, our work poses new questions concerning the σ70 binding mechanism, while also creating useful and novel promoters for use in multi-gene cassettes.    
+    
+    <br>
+    <br>
+
+    <em>[1] Kushwaha, M. & Salis, H. M. A portable expression resource for engineering cross-species genetic circuits and pathways. Nat. Commun. 6, 7832 (2015)</em>
+    <br>
+    <em>[2] Anderson, J. Christoper. <a href="http://parts.igem.org/Promoters/Catalog/Anderson">parts.igem.org/Promoters/Catalog/Anderson</a></em>
+  </p>
+
+  <h2 style="margin-top: 35px;">Computational Biology</h2>
+  <hr>
+  <p>Due to the unique tools that each of our computational teams use, our computational biology training workflow was different for each team. Through the training workflow, all members gained a strong conceptual foundation for their project and were onboarded to relevant tools, working with datasets that are related to the wetlab investigations while also generating data and code useful for their team’s projects.</p>
+
+  <h4>Protein Protein Interactions (PPI)</h4>
+  <p>The PPI team is interested in designing potentially therapeutic inhibitors targeting disease-inducing protein-protein interactions. They focus on modeling protein and peptide-based inhibitors computationally, by using Rosetta but also designing our own algorithms to explore protein structure and prediction.</p>
+  
+  <h4>Chemical Reaction Mining via Transformers (CheRMiT)</h4>
+  <p>Manually updating and curating data on reactions from scientific literature is difficult and involves human curation.
+
+    <br>
+
+    Our project integrates methods in language processing, cheminformatics, and machine learning to automate this process and ensure valid chemical reactions are being extracted. Together, we are building a pipeline for mining and processing chemical reactions from millions of papers published in scientific literature. A complete resource will not only provide curated information on thousands of enzymatic reactions for researchers to use, but may also assist in making predictions about undocumented reactions.
+  </p>
+
+  <h4>Hallucinating Scaffolds</h4>
+  <p>Our team focuses on de novo protein design. We are interested in designing scaffolds for enzymatic active sites that support catalytic activity (i.e., we want our hallucinated proteins to be capable of the same catalytic function as the native enzyme). Changing scaffolds allows us to design protein for greater stability, higher binding affinity, and favorable enzymatic functionality. The designs will be generated computationally using RosettaDesign and AlphaFold, and eventually tested in the wetlab.</p>
+</div>
+
+<div class="loader-wrapper">
+  <div class="loader"> 
+    <img src="https://static.igem.wiki/teams/4394/wiki/test/loading.gif"
+      width = "300"
+      height = "300">
+  </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"> </script>
+<script>
+  $(window).on('load', function(){
+    setTimeout(removeLoader, 0); //wait for page load PLUS two seconds.
+  });
+  function removeLoader(){
+    $( ".loader-wrapper" ).fadeOut(500, function() {
+      // fadeOut complete. Remove the loading div
+      $( ".loader-wrapper" ).remove(); //makes page more lightweight 
+  });   
+}
+</script>
+
+{% endblock %}
