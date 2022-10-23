@@ -1,20 +1,29 @@
 {% extends "layout.html" %}
   
 {% block title %}Engineering Success{% endblock %}
-{% block lead %}Demonstrate engineering success in a part of your project by going through at least one iteration of the engineering design cycle.{% endblock %}
 
 {% block page_content %}
 
-<div class="row mt-4">
-  <div class="col">
-    <div class="bd-callout bd-callout-info">
-      <h4>Silver Medal Criterion #1</h4>
-      <p>Demonstrate engineering success in a part of your project by going through at least one iteration of the engineering design cycle. This achievement should be distinct from your Contribution for Bronze.<p>
-      <p>If you plan to show engineering success by creating a new Part that has been shown to work as expected, you must document your contribution on the Part's Main Page on the <a href="http://parts.igem.org/Main_Page">Registry</a> for your team to be eligible for this criteria.</p>
-      <hr>
-      <p>Please see the <a href="https://competition.igem.org/judging/medals">2022 Medals Page</a> for more information.</p>
-    </div>
+<div class="col">
+  <h2>Overall Design</h2>
+  <hr>
+  <p>To enable batch-screening, we need a convenient reporter system with a signal identifiable with the human eye. To this end, we construct a standard green fluorescent protein (GFP) promoter-reporter system, as shown below, using Golden Gate Assembly.</p>
+  <div class="row mt-4">
+    <img class="image rounded-corners" src="https://static.igem.wiki/teams/4394/wiki/circuit.png" style="display: block;  margin-left: auto;  margin-right: auto; width: 50%; height: 50%;">
   </div>
+  <p style="margin-top: 20px;">It is to the consensus that the -35 and -10 boxes, the binding sites of the sigma70 factor during transcription, play a major role determining the strength of the respective promoter. Previous iGEM researchers employed saturation mutagenesis on the two regions and generated the J23119 family promoters. Among these promoters with different strengths, they concluded that J23119 from the family was the strongest1. Building upon this discovery, we leave the -35 and –10 consensus sequences identical to J23119 and utilize saturation mutagenesis via GoldenGate Assembly to generate randomized sequences on the sequential context surrounding the sigma factor recognition site, as shown below. This new construct is named pP6, with its design allowing us to explore strong constitutive promoters with a larger diversity in their gene sequence. Meanwhile, our hope was that altering sequential context would yield constitutive promoters even stronger than J23119.</p>
+  <div class="row mt-4">
+    <img class="image rounded-corners" src="https://static.igem.wiki/teams/4394/wiki/sequence.png" style="display: block;  margin-left: auto;  margin-right: auto; width: 50%; height: 50%;">
+  </div>
+  <p style="margin-top: 20px;">The N-repeat randomized sequence is incorporated into the targeted site by polymerase chain reaction (PCR) with primers ordered from IDT (their oligonucleotide synthesis instrument interprets ‘N’ as an equal mixture of all four bases). We thus get a library of promoters with dramatically varying strengths for characterization.
+    
+    <br>
+    Upon transformation and plating, we proceed with the brightest colonies, like the ones highlighted below, to isolate plasmid DNA and submit for sequencing.
+  </p>
+  <div class="row mt-4">
+    <img class="image rounded-corners" src="https://static.igem.wiki/teams/4394/wiki/pp6-46.jpg" style="display: block;  margin-left: auto;  margin-right: auto; width: 50%; height: 50%;">
+  </div>
+  <p style="margin-top: 20px;">For successful constructs proven by sequencing, we retransform and measure GFP signal, excited using 483 nm, at 525 nm wavelength with Tecan reader for later significance tests.</p>
 </div>
 
 <div class="loader-wrapper">
