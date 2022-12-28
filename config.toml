@@ -32,8 +32,8 @@ summarylength = 10
     url     = "feb"
     weight  = 6
   [[menu.nav]]
-    name    = "Join iGEM"
-    url     = "https://linktr.ee/igematberkeley"
+    name    = "Start New Team"
+    url     = "proposals"
     weight  = 7
 
 # Site Params
@@ -126,6 +126,9 @@ summarylength = 10
         [[params.footer.sitemap.link]]
           name = "DeCal"
           url  = "feb"
+        [[params.footer.sitemap.link]]
+          name = "Project Proposals"
+          url  = "proposals"
       # Footer Social Media
       [params.footer.social]
         title   = "Social Media"
