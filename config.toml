@@ -16,20 +16,20 @@ summarylength = 10
     url     = "community"
     weight  = 2
   [[menu.nav]]
-    name    = "Outreach"
-    url     = "outreach"
-    weight  = 3
-  [[menu.nav]]
     name    = "Finance"
     url     = "finance"
-    weight  = 4
+    weight  = 3
   [[menu.nav]]
     name    = "Experimental Teams"
     url     = "experimental"
-    weight  = 5
+    weight  = 4
   [[menu.nav]]
     name    = "DeCal"
     url     = "feb"
+    weight  = 5
+  [[menu.nav]]
+    name    = "CUBS 2023"
+    url     = "cubs"
     weight  = 6
   [[menu.nav]]
     name    = "Join iGEM"

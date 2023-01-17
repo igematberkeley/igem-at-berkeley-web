@@ -7,7 +7,7 @@ author: Alexender Schoitiz
 ---
 ### Apply to our Experimental or New Ideas Teams!
 
-> We have several wetlab engineering and computational biology teams, each dedicated to addressing a distinct biological research question. Our experimental teams continue work on well-defined projects, while our new ideas teams focus on exploring novel research areas. Joining iGEM at Berkeley helps build your technical skillset, ability to work as a team, and passion in bioengineering research. Regardless of your experience level, check out [our teams](https://igem.berkeley.edu/experimental/) and consider [applying to an Experimental or New Ideas Team today](https://docs.google.com/forms/d/e/1FAIpQLSc4kUSmc6TNFonkDwzAppapGv4q64xXsdXETc97yCoA8jOfSA/viewform?usp=sf_link) before applications close **January 27, 2023**.
+> We have several wetlab engineering and computational biology teams, each dedicated to addressing a distinct biological research question. Our experimental teams continue work on well-defined projects, while our new ideas teams focus on exploring novel research areas. Joining iGEM at Berkeley helps build your technical skillset, ability to work as a team, and passion in bioengineering research. Regardless of your experience level, check out [our teams](https://igem.berkeley.edu/experimental/) and consider [applying to an Experimental or New Ideas Team today](https://docs.google.com/forms/d/e/1FAIpQLSc4kUSmc6TNFonkDwzAppapGv4q64xXsdXETc97yCoA8jOfSA/viewform?usp=sf_link) before applications close **January 28, 2023**.
 
 &nbsp;
 
