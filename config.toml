@@ -32,8 +32,8 @@ summarylength = 10
     url     = "feb"
     weight  = 6
   [[menu.nav]]
-    name    = "Start New Team"
-    url     = "proposals"
+    name    = "Join iGEM"
+    url     = "recruitment"
     weight  = 7
 
 # Site Params
@@ -75,8 +75,8 @@ summarylength = 10
     background_image      = "images/backgrounds/retreat.png"
     heading               = "Join us for undergrad-led synthetic biology research, training programs, and a large community of aspiring scientists!"
     tagline               = "iGEM at Berkeley"
-    primary_button        = "General Member Registration"
-    primary_button_url    = "https://forms.gle/BrDoggP2xyuHnzmB9"
+    primary_button        = "Join an iGEM team today!"
+    primary_button_url    = "https://igem.berkeley.edu/recruitment/"
     secondary_button      = "Graduate Student Mentors"
     secondary_button_url  = "http://bit.ly/igemgradmentor"
 
@@ -89,10 +89,10 @@ summarylength = 10
     enable              = true
     background_image    = "images/backgrounds/cta-background.jpg"
     title               = "GET INVOLVED"
-    primary_button      = "General Member Form"
-    primary_button_url  = "https://forms.gle/BrDoggP2xyuHnzmB9"
-    secondary_button    = "Follow Our Instagram"
-    secondary_button_url = "https://instagram.com/igematberkeley"
+    primary_button      = "Apply to Experimental/New Ideas Team"
+    primary_button_url  = "https://docs.google.com/forms/d/e/1FAIpQLSc4kUSmc6TNFonkDwzAppapGv4q64xXsdXETc97yCoA8jOfSA/viewform?usp=sf_link"
+    secondary_button    = "Enroll in our lab DeCal"
+    secondary_button_url = "https://decal.berkeley.edu/courses/"
     finance_primary_button      = "Join Our Team"
     finance_primary_button_url  = "finance-join-our-team"
     finance_secondary_button    = "Be A Partner"
