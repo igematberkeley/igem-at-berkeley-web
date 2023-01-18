@@ -11,11 +11,12 @@
             <img class="feature-image" src="{{ .Params.feature_image | absURL }}" alt="blog-feature-image">
             {{ .Content }}
           </article>
-          {{ partial "call-to-action.html" . }}
         </div>
       </div>
     </div>
   </section>
 </body>
+
+{{ partial "call-to-action.html" . }}
 
 {{ end }}
