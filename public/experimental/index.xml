@@ -13,7 +13,8 @@
       <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
       
       <guid>https://igem.berkeley.edu/experimental/cellyse/</guid>
-      <description>Cellyse aims to implement an antibody-inducible system of cell lysis in a bacterium in hopes of increasing accessibility and affordability to antibody diagnostics.</description>
+      <description>Project Leads: Jacob Rulison, Ella Ramamurthy
+Cellyse is focused on using genetic engineering techniques to improve sustainability within science.</description>
     </item>
     
     <item>
@@ -22,7 +23,8 @@
       <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
       
       <guid>https://igem.berkeley.edu/experimental/cheese-engineering/</guid>
-      <description>Fungal contamination of soft cheeses, such as feta, poses a significant problem for organic cheese farms.</description>
+      <description>Project Leads: Rachelle Smith, Hanen Su
+Fungal spoilage of cheese can have major economic losses due to food safety issues, additional work to remove it, product losses and waste, and reduction of quality.</description>
     </item>
     
     <item>
@@ -31,7 +33,8 @@
       <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
       
       <guid>https://igem.berkeley.edu/experimental/chermit/</guid>
-      <description>Manually updating and curating data on reactions from scientific literature is difficult and involves human curation.</description>
+      <description>Project Leads: Max Lee, Bryan Hsu
+The CheRMiT team is developing a pipeline for mining and processing chemical reactions from millions of papers published in scientific literature.</description>
     </item>
     
     <item>
@@ -40,7 +43,8 @@
       <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
       
       <guid>https://igem.berkeley.edu/experimental/assembly/</guid>
-      <description>Our project focuses on creating a faster and more efficient way to perform traditional cloning methods.</description>
+      <description>Project Leads: Milo Scola, Lukas Koller
+Our team is attempting to create a more efficient version of the BioBricks assembly method.</description>
     </item>
     
     <item>
@@ -49,25 +53,48 @@
       <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
       
       <guid>https://igem.berkeley.edu/experimental/deletion/</guid>
-      <description>The Clonebot Deletion team’s mission is to develop a more efficient way to knockout genes in bacteria.</description>
+      <description>Project Leads: Peiwen Xiao, Kaitlyn Wang
+Generating efficient gene knockouts in bacteria is a crucial component of many synthetic biology projects.</description>
+    </item>
+    
+    <item>
+      <title>Genomics</title>
+      <link>https://igem.berkeley.edu/experimental/genomics/</link>
+      <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
+      
+      <guid>https://igem.berkeley.edu/experimental/genomics/</guid>
+      <description>Project Leads: Lavanya Jain and Vibha Yellamraju
+Our Genomics team will have the opportunity to research and work on a novel problem of the team&amp;rsquo;s choice in genomics.</description>
     </item>
     
     <item>
       <title>Hallucinating Scaffolds</title>
-      <link>https://igem.berkeley.edu/experimental/hallucinating/</link>
+      <link>https://igem.berkeley.edu/experimental/hallucinating-scaffolds/</link>
       <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
       
-      <guid>https://igem.berkeley.edu/experimental/hallucinating/</guid>
-      <description>Our team focuses on de novo protein design. We are interested in designing scaffolds for enzymatic active sites that support catalytic activity (i.</description>
+      <guid>https://igem.berkeley.edu/experimental/hallucinating-scaffolds/</guid>
+      <description>Project Leads: Fenmiao Zhong, Ying-Li Su
+Hallucinating scaffolds team aims to design functional de novo proteins by taking active sites of an enzyme and hallucinating, i.</description>
     </item>
     
     <item>
-      <title>Protein-Protein Interactions</title>
-      <link>https://igem.berkeley.edu/experimental/ppi/</link>
+      <title>Peptide Design</title>
+      <link>https://igem.berkeley.edu/experimental/peptide-design/</link>
       <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
       
-      <guid>https://igem.berkeley.edu/experimental/ppi/</guid>
-      <description>The PPI team is interested in designing potentially therapeutic inhibitors targeting disease-inducing protein-protein interactions.</description>
+      <guid>https://igem.berkeley.edu/experimental/peptide-design/</guid>
+      <description>Project Leads: Gean Hu, Shreya Ramesh
+The Peptide Design Team’s goal is to better understand how to use computational techniques to study and design proteins and peptides.</description>
+    </item>
+    
+    <item>
+      <title>Protein Engineering</title>
+      <link>https://igem.berkeley.edu/experimental/protein-engineering/</link>
+      <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
+      
+      <guid>https://igem.berkeley.edu/experimental/protein-engineering/</guid>
+      <description>Project Leads: Isha Soni, Amad Jalil
+The directed evolution (DE) team is engineering a more thermostable form of the protein IscB-wRNA, an evolutionary precursor to Cas9 that has a range of biotechnological applications.</description>
     </item>
     
   </channel>
