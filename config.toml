@@ -25,7 +25,7 @@ summarylength = 10
     weight  = 4
   [[menu.nav]]
     name    = "DeCal"
-    url     = "feb"
+    url     = "ferb"
     weight  = 5
   [[menu.nav]]
     name    = "CUBS 2023"
@@ -125,7 +125,10 @@ summarylength = 10
           url  = "teams"
         [[params.footer.sitemap.link]]
           name = "DeCal"
-          url  = "feb"
+          url  = "ferb"
+        [[params.footer.sitemap.link]]
+          name = "CUBS 2023"
+          url  = "cubs"
         [[params.footer.sitemap.link]]
           name = "Project Proposals"
           url  = "proposals"
