@@ -75,10 +75,10 @@ summarylength = 10
     background_image      = "images/backgrounds/retreat.png"
     heading               = "Join us for undergrad-led synthetic biology research, training programs, and a large community of aspiring scientists!"
     tagline               = "iGEM at Berkeley"
-    primary_button        = "Join an iGEM team today!"
-    primary_button_url    = "https://igem.berkeley.edu/recruitment/"
-    secondary_button      = "Graduate Student Mentors"
-    secondary_button_url  = "http://bit.ly/igemgradmentor"
+    primary_button        = "Join iGEM!"
+    primary_button_url    = "recruitment"
+    secondary_button      = "Check out our teams!"
+    secondary_button_url  = "teams"
 
   [params.portfolio]
     enable    = true
@@ -89,7 +89,7 @@ summarylength = 10
     enable              = true
     background_image    = "images/backgrounds/cta-background.jpg"
     title               = "GET INVOLVED"
-    primary_button      = "Apply to Experimental/New Ideas Team"
+    primary_button      = "Apply to an iGEM team"
     primary_button_url  = "https://docs.google.com/forms/d/e/1FAIpQLSc4kUSmc6TNFonkDwzAppapGv4q64xXsdXETc97yCoA8jOfSA/viewform?usp=sf_link"
     secondary_button    = "Apply to our lab DeCal"
     secondary_button_url = "https://bit.ly/3Xl4oek"
