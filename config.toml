@@ -20,8 +20,8 @@ summarylength = 10
     url     = "finance"
     weight  = 3
   [[menu.nav]]
-    name    = "Experimental Teams"
-    url     = "experimental"
+    name    = "Teams"
+    url     = "teams"
     weight  = 4
   [[menu.nav]]
     name    = "DeCal"
@@ -121,8 +121,8 @@ summarylength = 10
           name = "Finance"
           url  = "finance"
         [[params.footer.sitemap.link]]
-          name = "Experimental Teams"
-          url  = "experimental"
+          name = "Project Teams"
+          url  = "teams"
         [[params.footer.sitemap.link]]
           name = "DeCal"
           url  = "feb"
