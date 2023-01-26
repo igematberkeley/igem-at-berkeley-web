@@ -13,7 +13,7 @@ author: Alexender Schoitiz
 
 ### Apply to our lab DeCal!
 
-> This spring, we're also offering a lab-based introduction to synthetic biology through a 2-unit DeCal called Foundations of Engineering Biology II (FERB II). If you enroll, you will be guided through a basic molecular cloning workflow. The prerequisites for FERB II are any of the following: FERB I (Fall), BIO 1A, AP Biology, or knowledge of (synthetic) biology fundamentals. There are 16 open spots and the preferred application deadline is **January 28 at 11:59 p.m.**. However, applications will be accepted until **February 1 at 11:59 p.m.** Read the full syllabus [here](https://docs.google.com/document/d/1AJ8pMN8HI_zcxHgnUkGoMCL51Dhj33qfQU97YQUMiXc/edit) and apply to the DeCal using [this form](https://bit.ly/3Xl4oek).
+> This spring, we're also offering a lab-based introduction to synthetic biology through a 2-unit DeCal called Foundations of Engineering Biology II (FERB II). If you enroll, you will be guided through a basic molecular cloning workflow. The prerequisites for FERB II are any of the following: FERB I (Fall), BIO 1A, AP Biology, or knowledge of (synthetic) biology fundamentals. There are 16 open spots and the preferred application deadline is **January 28 at 11:59 p.m.**. However, applications will be accepted until **February 1 at 11:59 p.m.** Read the full syllabus and apply to the DeCal on the [official DeCal website](https://decal.berkeley.edu/courses/6662).
 
 &nbsp;
 
