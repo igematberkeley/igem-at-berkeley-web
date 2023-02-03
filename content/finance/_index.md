@@ -2,7 +2,7 @@
 title: "Finance"
 date: 2019-12-24T13:40:00+06:00
 image: images/blog/blog-post-01.jpg
-feature_image: images/finance/finance-team.jpeg
+feature_image: images/finance/finance-team.jpg
 author: Alexender Schoitiz
 ---
 ### Thank you for your interest in the Finance team for iGEM at Berkeley!

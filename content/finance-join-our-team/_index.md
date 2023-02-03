@@ -2,7 +2,7 @@
 title: "Join Our Team"
 date: 2019-12-24T13:40:00+06:00
 image: images/blog/blog-post-01.jpg
-feature_image: images/finance/finance-team-zoom.jpeg
+feature_image: images/finance/finance-join.jpg
 author: Alexender Schoitiz
 ---
 &nbsp;
