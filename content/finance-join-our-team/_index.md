@@ -5,9 +5,6 @@ image: images/blog/blog-post-01.jpg
 feature_image: images/finance/finance-join.jpg
 author: Alexender Schoitiz
 ---
-&nbsp;
-
-
 ### Our Purpose
 
 Especially for research, managing finances is crucial! The Finance team at iGEM at Berkeley works to achieve two goals:
@@ -36,6 +33,4 @@ With our team, you’ll learn how to write grant proposals, network with biotech
 
 &nbsp;
 
-### Team Application
-
-Finance will NOT be having written applications this year. We will be conducting interviews to gauge your interest and fit for our team. Please fill out [our Interest Form](https://forms.gle/byguVSHdqjgVVJat6) and sign up for an interview time (Calendly is linked on our Interest Form). 
+> Our Finance Team is **not recruiting for the Spring 2023 semester**. If you're interested in joining, please check back in the fall.
