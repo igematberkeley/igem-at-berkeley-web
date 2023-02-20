@@ -52,6 +52,19 @@
         </div>
       </div>
       {{ end }}
+      {{ with .Site.Params.footer.sponsor }}
+    <div class="row mt-5">
+      <div class="col-lg col-md">
+        <div class="site-footer-widget">
+          <h5 class="site-footer-widget-title">{{ .title }}</h5>
+          <p class="site-footer-widget-description">
+            {{ .description | safeHTML }}
+          </p>
+        </div>
+      </div>
+    </div>
+      
+      {{ end }}
     </div>
   </div>
 </footer>

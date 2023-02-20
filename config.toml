@@ -147,7 +147,13 @@ summarylength = 10
         [[params.footer.social.link]]
           name = "GitHub"
           url  = "https://github.com/igematberkeley"
+      # Footer Sponsor
+      [params.footer.sponsor]
+        title       = "Thank You to Our Sponsors:"
+        description = "The Rulisons | Tonkomo LLC | The Pandes | The Spiegels | Geneious"
       # Footer Service
       [params.footer.service]
         title       = "Student Group Disclaimer:"
         description = "We are a student group acting independently of the University of California. We take full responsibility for our organization and this web site."
+      
+        
