@@ -32,9 +32,13 @@ summarylength = 10
     url     = "cubs"
     weight  = 6
   [[menu.nav]]
+    name    = "Breaking in Biosciences 2023"
+    url     = "bib"
+    weight  = 7
+  [[menu.nav]]
     name    = "Join iGEM"
     url     = "recruitment"
-    weight  = 7
+    weight  = 8
 
 # Site Params
 [params]
