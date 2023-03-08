@@ -7,7 +7,7 @@ author: Alexender Schoitiz
 ---
 ### Get ready to present your BioE research!
 
-> iGEM at Berkeley is excited to bring you the second Undergraduate Bioengineering Symposium this coming spring, featuring the latest undergraduate-led BioE research, on **Monday, May 1st**.
+> iGEM at Berkeley is excited to bring you the second Undergraduate Bioengineering Symposium this coming spring, featuring the latest undergraduate-led BioE research, on **Tuesday, May 2nd**.
 
 >Any questions? Please email <cubs@igem.berkeley.edu>, and a member will get back to you. 
 
@@ -15,13 +15,13 @@ author: Alexender Schoitiz
 
 ### Timeline
 
-**Sunday April 2nd, 11:59pm**: Abstract due (rolling deadline)
+> **Sunday April 2nd, 11:59pm**: Abstract due (rolling deadline)
 
-**Early April**: Students notified of confirmed selection
+> **Early April**: Students notified of confirmed selection
 
-**Mid-late April**: Poster submission due
+> **Mid-late April**: Poster submission due
 
-**Monday, May 1st**: Symposium, 290 Hearst Mining Building 2-5pm
+> **Tuesday, May 2nd**: Symposium @ 290 Hearst Mining Building from 12:00 - 4:00 p.m.
 
 &nbsp;
 

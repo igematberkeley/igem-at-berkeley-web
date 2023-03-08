@@ -28,11 +28,11 @@ summarylength = 10
     url     = "ferb"
     weight  = 5
   [[menu.nav]]
-    name    = "CUBS 2023"
+    name    = "CUBS"
     url     = "cubs"
     weight  = 6
   [[menu.nav]]
-    name    = "Breaking in Biosciences 2023"
+    name    = "Breaking into Biosciences"
     url     = "bib"
     weight  = 7
   [[menu.nav]]
@@ -134,8 +134,8 @@ summarylength = 10
           name = "CUBS 2023"
           url  = "cubs"
         [[params.footer.sitemap.link]]
-          name = "Project Proposals"
-          url  = "proposals"
+          name = "Breaking into Biosciences"
+          url  = "bib"
       # Footer Social Media
       [params.footer.social]
         title   = "Social Media"
