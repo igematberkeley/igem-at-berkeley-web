@@ -15,7 +15,7 @@ author: Alexender Schoitiz
 
 ### Timeline
 
-> **Sunday April 2nd, 11:59pm**: Abstract due (rolling deadline)
+> **[UPDATE] Wednesday, April 12th, 11:59pm**: Abstract due (Deadline Extended from April 2)
 
 > **Early April**: Students notified of confirmed selection
 
