@@ -79,8 +79,8 @@ summarylength = 10
     background_image      = "images/backgrounds/retreat.png"
     heading               = "Join us for undergrad-led synthetic biology research, training programs, and a large community of aspiring scientists!"
     tagline               = "iGEM at Berkeley"
-    primary_button        = "Join iGEM!"
-    primary_button_url    = "recruitment"
+    primary_button        = "Come to our DEI Night!"
+    primary_button_url    = "https://forms.gle/dp7FGxNiJg9vN5jZ9"
     secondary_button      = "Check out our teams!"
     secondary_button_url  = "teams"
 

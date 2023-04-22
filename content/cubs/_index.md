@@ -43,5 +43,5 @@ Make sure your abstract meetings the following requirements:
 
 * A sample abstract and formatting can be found [**here**](https://bit.ly/cubs-sample-abstract)
 
-Submit your abstract [**here**](https://bit.ly/cubs-sp23) by **Sunday, April 2nd**
+Submit your abstract [**here**](https://bit.ly/cubs-sp23) by **Sunday, April 2nd (EXTENDED to Wednesday, April 12th)**
 
