@@ -15,6 +15,8 @@ Our Training Team (also known as the [Foundations of Engineering Biology DeCal](
 
 Class will be held twice a week in the evening and taught by our Training Team Directors. Students will be expected to complete weekly assignments varying from technique based quizzes to verbal presentations both individually and collaboratively. Grading is based on a pass/no pass system and is offered for one BioE 98 unit.
 
+To learn more about our offered DeCals, check out the [Foundations in Engineering Biology I](https://docs.google.com/document/d/1lx4m4J1VtO6XdJHNDIXrt96Vt7axD7UqPSXLGA2y7p8/edit?usp=sharing) and [Foundations in Engineering Biology II](https://docs.google.com/document/d/1qp1VQfMmCr7lsIilsCm2E-3oXe9Sqj3tRkuM5Dxsd8A/edit?usp=sharing) Syllabi.
+
 &nbsp;
 ### What happens after Training Team?
 
@@ -23,9 +25,9 @@ Training Team graduates are encouraged to apply to our existing wetlab or compbi
 &nbsp;
 ### Contact
 
-If you would like more information or have any questions, please contact the Training Team Directors (<arshia@berkeley.edu> and <kylie.akiyama@berkeley.edu>) or our Directors’ email at <directors@igem.berkeley.edu>.
+If you would like more information or have any questions, please contact the Training Team Directors (<balazsgeorge@berkeley.edu> and <katie.sie@berkeley.edu>) or our Directors’ email at <directors@igem.berkeley.edu>.
 
 &nbsp;
 ### History
 
-This is the third iteration of the Training Team, which originally began in Spring of 2021 as the Training Rotation Program (TRP) and only had about 15 students. The following year (Fall 2021), the program was revamped into the Training Team and hosted almost 100 students. This year, to encourage greater participation and limit extremely large class sizes, we have converted the program into a DeCal course under the name of [Foundations of Engineering Biology (FERB)](https://classes.berkeley.edu/content/2022-fall-bioeng-98-003-grp-003). Internally, we still refer to this group of students as iGEM’s Training Team, but Foundations of Engineering Biology is the exact same thing.
+This is the third iteration of the Training Team, which originally began in Spring of 2021 as the Training Rotation Program (TRP) and only had about 15 students. The following year (Fall 2021), the program was revamped into the Training Team and hosted almost 100 students. During the 2022-2023 Academic Year, [Foundations in Engineering Biology (FERB)](https://classes.berkeley.edu/content/2022-fall-bioeng-98-003-grp-003) was spearheaded with the fall semester focusing on the introductory foundations of synthetic and computational biology and the spring semester conducting a research project using fundamental wet-lab techniques. Internally, we still refer to this group of students as iGEM’s Training Team, but Foundations of Engineering Biology is the exact same thing.
