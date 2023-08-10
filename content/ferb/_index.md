@@ -9,9 +9,9 @@ author: Alexender Schoitiz
 
 Our Training Team (also known as the Foundations of Engineering Biology DeCal, or FERB) is a space for students to learn about the field of synthetic biology and acquire new, applicable skills for future scientific research. We host two DeCals with the first being a fundamental introduction to the field and the sequel allowing exposure to the wet-lab environment.
 
-Geared towards students who are newer to the field, FERB I is a one-semester, lecture and project-based course that will teach basic wet lab techniques, current computational and synthetic biology research, and the process of ideation. The course will cover a range of topics from how to conduct a literature review to the cloning workflow. Additionally, students will get the opportunity to participate in a three-week long Design Challenge created to promote collaboration and application of fundamentals in regards to performing literature search, conducting ideation, and presenting a project proposal to a panel of graduate students and peers. 
+Geared towards students who are newer to the field, Foundations of Engineering Biology I is a one-semester, lecture and project-based course that will teach basic wet lab techniques, current computational and synthetic biology research, and the process of ideation. Additionally, students will get the opportunity to participate in a three-week long Design Challenge created to promote collaboration and application of fundamentals, culminating in a presentation of their project proposal to a panel of graduate students and peers. 
 
-For students with a foundational understanding of biology, FERB II introduces wet-lab techniques used in synthetic biology to conduct a student-run experimental project. 
+For students with a foundational understanding of biology, Foundations of Engineering Biology II introduces wet-lab techniques used in synthetic biology to conduct a student-run experimental project. This one-semester class meets twice a week for lecture and lab to delve into the cloning workflow performing techniques such as PCR, gel electrophoresis, DNA cleanup, assembly, transformation, sequencing, and basic computational analysis.
 
 ![iGEM at Berkeley Training Team Directors](/images/training/TTDirectors23-24.png "Katie and George, our Training Team directors")
 
