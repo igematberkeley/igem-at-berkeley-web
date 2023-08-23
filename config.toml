@@ -28,17 +28,9 @@ summarylength = 10
     url     = "ferb"
     weight  = 5
   [[menu.nav]]
-    name    = "CUBS"
-    url     = "cubs"
-    weight  = 6
-  [[menu.nav]]
-    name    = "Breaking into Biosciences"
-    url     = "bib"
-    weight  = 7
-  [[menu.nav]]
     name    = "Join iGEM"
     url     = "recruitment"
-    weight  = 8
+    weight  = 6
 
 # Site Params
 [params]
@@ -77,12 +69,12 @@ summarylength = 10
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/retreat.png"
-    heading               = "Join us for undergrad-led synthetic biology research, training programs, and a large community of aspiring scientists!"
+    heading               = "Fill out our general member form any time to join our Slack and our community! The form is open all year long and you will gain access to all what iGEM  has to offer — join us!"
     tagline               = "iGEM at Berkeley"
-    primary_button        = "General Membership Form"
+    primary_button        = "General Member Form"
     primary_button_url    = "https://forms.gle/ntxXEWLvCNaYd4pz9"
-    secondary_button      = "Check out our teams!"
-    secondary_button_url  = "teams"
+    secondary_button      = "Recruitment Updates on Instagram"
+    secondary_button_url  = "http://instagram.com/igematberkeley/"
 
   [params.portfolio]
     enable    = true
