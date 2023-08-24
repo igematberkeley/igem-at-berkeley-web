@@ -1,14 +1,18 @@
 enable : true
-heading : "THE PROOF IS IN THE PUDDING!"
+heading : "Fall 2023 Deadlines & Dates"
 counter_item: 
-  - title: "Happy Clients"
-    number: "250"
+  - title: "Infosession 1"
+    location: "8-9 p.m., Wheeler 30"
+    number: "8/29"
+  
+  - title: "Infosession 2"
+    location: "8-9 p.m., Dwinelle 179"
+    number: "8/31"
+  
+  - title: "FERB DeCals"
+    location: "Priority Deadline"
+    number: "9/2"
 
-  - title: "Projects Completed"
-    number: "100"
-
-  - title: "Cups of coffee"
-    number: "350"
-
-  - title: "Telephone Talks"
-    number: "775"
+  - title: "Project Team Application"
+    location: "Final Deadline"
+    number: "9/4"
