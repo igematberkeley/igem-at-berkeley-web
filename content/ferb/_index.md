@@ -13,7 +13,12 @@ Geared towards students who are newer to the field, Foundations of Engineering B
 
 For students with a foundational understanding of biology, Foundations of Engineering Biology II introduces wet-lab techniques used in synthetic biology to conduct a student-run experimental project. This one-semester class meets twice a week for lecture and lab to delve into the cloning workflow performing techniques such as PCR, gel electrophoresis, DNA cleanup, assembly, transformation, sequencing, and basic computational analysis.
 
-![iGEM at Berkeley Training Team Directors](/images/training/TTDirectors23-24.png "Katie and George, our Training Team directors")
+&nbsp;
+
+![FERB I Class](/images/training/ferb-class.png "A previous FERB I class.")
+Our Fall 2022 inaugural FERB I cohort along with their Training Team directors and leads.
+
+&nbsp;
 
 ### Structure
 
@@ -28,6 +33,8 @@ Training Team graduates are encouraged to apply to our existing wetlab or compbi
 
 &nbsp;
 ### Contact
+
+![Training Team Directors](/images/training/TTDirectors23-24.png "Katie and George, our Training Team Directors")
 
 If you would like more information or have any questions, please contact the Training Team Directors (<balazsgeorge@berkeley.edu> and <katie.sie@berkeley.edu>) or our Directors’ email at <directors@igem.berkeley.edu>.
 
