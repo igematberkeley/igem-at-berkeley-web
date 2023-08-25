@@ -69,12 +69,14 @@ summarylength = 10
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/retreat.png"
-    heading               = "Fill out our general member form any time to join our Slack and our community! The form is open all year long and you will gain access to all what iGEM  has to offer — join us!"
+    heading               = "Join us for undergrad-led synthetic biology research, training programs, and a large community of aspiring scientists!"
     tagline               = "iGEM at Berkeley"
     primary_button        = "General Member Form"
     primary_button_url    = "https://forms.gle/ntxXEWLvCNaYd4pz9"
-    secondary_button      = "Recruitment Updates on Instagram"
+    secondary_button      = "Recruitment Updates"
     secondary_button_url  = "http://instagram.com/igematberkeley/"
+    tertiary_button      = "Fall 2023 Applications"
+    tertiary_button_url  = "recruitment"
 
   [params.portfolio]
     enable    = true
@@ -123,11 +125,8 @@ summarylength = 10
           name = "DeCal"
           url  = "ferb"
         [[params.footer.sitemap.link]]
-          name = "CUBS 2023"
-          url  = "cubs"
-        [[params.footer.sitemap.link]]
-          name = "Breaking into Biosciences"
-          url  = "bib"
+          name = "Join iGEM"
+          url  = "recruitment"
       # Footer Social Media
       [params.footer.social]
         title   = "Social Media"
