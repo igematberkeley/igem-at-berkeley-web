@@ -88,6 +88,16 @@ Members: Lynn Gu, Stefan Pham, Julia Kim</description>
     </item>
     
     <item>
+      <title>NavGene</title>
+      <link>https://igem.berkeley.edu/teams/navgene/</link>
+      <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
+      
+      <guid>https://igem.berkeley.edu/teams/navgene/</guid>
+      <description>Project Leads: Isha Soni, Amad Jalil
+Members: Isabella Bartmess, Isabella Murray, Avani Ghate, Edward Pandji, Snigdha Jagarlapudi, Stacy Widyono</description>
+    </item>
+    
+    <item>
       <title>Peptide Design</title>
       <link>https://igem.berkeley.edu/teams/peptide-design/</link>
       <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
@@ -95,16 +105,6 @@ Members: Lynn Gu, Stefan Pham, Julia Kim</description>
       <guid>https://igem.berkeley.edu/teams/peptide-design/</guid>
       <description>Project Leads: Jessica Lin, Gean Hu
 Members: Shreya Ramesh, Kelly Hui, Vignesh Manikandan</description>
-    </item>
-    
-    <item>
-      <title>Protein Engineering</title>
-      <link>https://igem.berkeley.edu/teams/protein-engineering/</link>
-      <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
-      
-      <guid>https://igem.berkeley.edu/teams/protein-engineering/</guid>
-      <description>Project Leads: Isha Soni, Amad Jalil
-The directed evolution (DE) team is engineering a more thermostable form of the protein IscB-wRNA, an evolutionary precursor to Cas9 that has a range of biotechnological applications.</description>
     </item>
     
   </channel>
