@@ -86,9 +86,9 @@ summarylength = 10
   [params.call_to_action]
     enable              = true
     background_image    = "images/backgrounds/cta-background.jpg"
-    title               = "GET INVOLVED"
+    title               = "APPLY NOW"
     primary_button      = "Apply to an iGEM team"
-    primary_button_url  = "http://linktr.ee/igematberkeley"
+    primary_button_url  = "https://forms.gle/c4TgnW8mzwJ5iUWt8"
     secondary_button    = "Apply to our DeCals"
     secondary_button_url = "http://linktr.ee/igematberkeleydecals"
     finance_primary_button      = "Join Our Team"

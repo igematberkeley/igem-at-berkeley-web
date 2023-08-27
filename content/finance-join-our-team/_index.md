@@ -28,9 +28,10 @@ With our team, you’ll learn how to write grant proposals, network with biotech
 > If you’re interested in joining our team and have more questions, please contact us at <directors@igem.berkeley.edu>.
 >
 > To contact the Directors of Finance, email: 
-* Christina Lee: <jihyunlee224@berkeley.edu> 
 * Samhita Nittala: <nittalas1189@berkeley.edu>
+* Shreya Jariwala: <shreyj7@berkeley.edu>
 
 &nbsp;
 
-> Our Finance Team is **not recruiting for the Spring 2023 semester**. If you're interested in joining, please check back in the fall.
+> Our Finance Team is recruiting for the Fall 2023 semester! If you're interested in joining, please fill out [our interest form](https://forms.gle/3RQnYWHCahCg6ms58).
+
