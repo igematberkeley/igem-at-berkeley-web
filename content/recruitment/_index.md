@@ -17,7 +17,7 @@ author: Alexender Schoitiz
 
 > FERB I has no prerequisites. The prerequisites for FERB II are any of the following: FERB I (Fall), BIO 1A, AP Biology, or knowledge of (synthetic) biology fundamentals.
 
-> Each DeCal has 16 open spots and the preferred application deadline is **September 2 at 11:59 p.m.**. However, applications will be accepted until **September 4 at 11:59 p.m**. [Learn more about our DeCals and read their full syllabi here](https://igem.berkeley.edu/ferb). Click [here](https://linktr.ee/igematberkeleydecals) or the button below to apply.
+> FERB I has 30 open spots and FERB II has 10 open spots. The preferred application deadline is **September 2 at 11:59 p.m.**. However, applications will be accepted until **September 4 at 11:59 p.m**. [Learn more about our DeCals and read their full syllabi here](https://igem.berkeley.edu/ferb). Click [here](https://linktr.ee/igematberkeleydecals) or the button below to apply.
 
 &nbsp;
 
