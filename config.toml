@@ -28,9 +28,13 @@ summarylength = 10
     url     = "ferb"
     weight  = 5
   [[menu.nav]]
+    name    = "People"
+    url     = "leadership"
+    weight  = 6
+  [[menu.nav]]
     name    = "Join iGEM"
     url     = "recruitment"
-    weight  = 6
+    weight  = 7
 
 # Site Params
 [params]
