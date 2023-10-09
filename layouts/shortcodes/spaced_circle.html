@@ -1,0 +1,9 @@
+{{ $image1 := .Get "image1" }}
+{{ $caption1 := .Get "caption1" }}
+
+<div style="text-align: center; margin-right: 20px;">
+    <div class="circle-image">
+        <img src="{{ $image1 }}" alt="{{ $caption1 }}">
+        <p>{{ $caption1 }}</p>
+    </div>
+</div>

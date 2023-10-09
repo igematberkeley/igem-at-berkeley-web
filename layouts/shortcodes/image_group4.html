@@ -1,0 +1,45 @@
+<!--Creates a row of four images-->
+<link rel="stylesheet" href="/images/css/styles.css">
+
+{{ $image1 := .Get "image1" }}
+{{ $caption1 := .Get "caption1" }}
+{{ $image2 := .Get "image2" }}
+{{ $caption2 := .Get "caption2" }}
+{{ $image3 := .Get "image3" }}
+{{ $caption3 := .Get "caption3" }}
+{{ $image4 := .Get "image4" }}
+{{ $caption4 := .Get "caption4" }}
+
+
+
+<div class="image-group4">
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <div style="display: flex; justify-content: space-between;">
+      <div style="text-align: center; margin-right: 20px;">
+        <div class="circle-image">
+            <img src="{{ $image1 }}" alt="{{ $caption1 }}">
+            <p>{{ $caption1 }}</p>
+        </div>
+      </div>
+      <div style="text-align: center; margin-right: 20px;">
+        <div class="circle-image">
+          <img src="{{ $image2 }}" alt="{{ $caption2 }}">
+          <p>{{ $caption2 }}</p>
+        </div>
+      </div>
+      <div style="text-align: center; margin-right: 20px;">
+        <div class="circle-image">
+          <img src="{{ $image3 }}" alt="{{ $caption3 }}">
+          <p>{{ $caption3 }}</p>
+        </div>
+      </div>
+      <div style="text-align: center; margin-right: 20px;">
+        <div class="circle-image">
+          <img src="{{ $image4 }}" alt="{{ $caption4 }}">
+          <p>{{ $caption4 }}</p>
+        </div>
+      </div> 
+    </div>
+  </div>
+</div>
+
