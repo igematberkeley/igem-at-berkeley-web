@@ -3,12 +3,16 @@
 
 {{ $image1 := .Get "image1" }}
 {{ $caption1 := .Get "caption1" }}
+{{ $bio1 := .Get "bio1" }}
 {{ $image2 := .Get "image2" }}
 {{ $caption2 := .Get "caption2" }}
+{{ $bio2 := .Get "bio2" }}
 {{ $image3 := .Get "image3" }}
 {{ $caption3 := .Get "caption3" }}
+{{ $bio3 := .Get "bio3" }}
 {{ $image4 := .Get "image4" }}
 {{ $caption4 := .Get "caption4" }}
+{{ $bio4 := .Get "bio4" }}
 
 
 
@@ -18,26 +22,30 @@
       <div style="text-align: center; margin-right: 20px;">
         <div class="circle-image">
             <img src="{{ $image1 }}" alt="{{ $caption1 }}">
-            <p>{{ $caption1 }}</p>
         </div>
+        <p style="margin-top: 16px; font-weight: bold;">{{ $caption1 }}</p>
+        <p>{{ $bio1 }}</p>
       </div>
       <div style="text-align: center; margin-right: 20px;">
         <div class="circle-image">
           <img src="{{ $image2 }}" alt="{{ $caption2 }}">
-          <p>{{ $caption2 }}</p>
         </div>
+        <p style="margin-top: 16px; font-weight: bold;">{{ $caption2 }}</p>
+        <p>{{ $bio2 }}</p>
       </div>
       <div style="text-align: center; margin-right: 20px;">
         <div class="circle-image">
           <img src="{{ $image3 }}" alt="{{ $caption3 }}">
-          <p>{{ $caption3 }}</p>
         </div>
+        <p style="margin-top: 16px; font-weight: bold;">{{ $caption3 }}</p>
+        <p>{{ $bio3 }}</p>
       </div>
       <div style="text-align: center; margin-right: 20px;">
         <div class="circle-image">
           <img src="{{ $image4 }}" alt="{{ $caption4 }}">
-          <p>{{ $caption4 }}</p>
         </div>
+        <p style="margin-top: 16px; font-weight: bold;">{{ $caption4 }}</p>
+        <p>{{ $bio4 }}</p>
       </div> 
     </div>
   </div>
