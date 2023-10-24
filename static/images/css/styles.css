@@ -1,6 +1,8 @@
 .circle-image {
-    width: 150px; /* Adjust the size as needed */
-    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 120px; /* Adjust the size as needed */
+    height: 120px;
     border-radius: 50%; /* Creates a circular shape */
     overflow: hidden; /* Clips image to the circle */
   }
