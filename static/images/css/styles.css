@@ -7,7 +7,7 @@
     overflow: hidden; /* Clips image to the circle */
   }
   .circle-image img {
-    width: 100%;
+    width: inherit;
     height: auto;
     display: block;
   }

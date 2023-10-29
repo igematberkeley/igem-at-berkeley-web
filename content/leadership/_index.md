@@ -9,7 +9,7 @@ author: Alexender Schoitiz
 
 &nbsp;
 
-{{< image_group4
+{{< image_group6
   image1="/images/leadership/dummy1.png"
   caption1="Director of Dummy 1"
   bio1="Lorem ipsum dolor sit amet"
@@ -30,7 +30,7 @@ author: Alexender Schoitiz
   bio6="Lorem ipsum dolor sit amet"
 >}}
 
-{{< image_group4
+{{< image_group5
   image1="/images/leadership/dummy1.png"
   caption1="Director of Dummy 1"
   bio1="Lorem ipsum dolor sit amet"
@@ -46,9 +46,6 @@ author: Alexender Schoitiz
   image5="/images/leadership/dummy4.png"
   caption5="Director of Dummy 4"
   bio5="Lorem ipsum dolor sit amet"
-  image6=""
-  caption6=""
-  bio6=""
 >}}
 
 
