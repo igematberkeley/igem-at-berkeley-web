@@ -28,13 +28,9 @@ summarylength = 10
     url     = "ferb"
     weight  = 5
   [[menu.nav]]
-    name    = "People"
-    url     = "leadership"
-    weight  = 6
-  [[menu.nav]]
     name    = "Join iGEM"
     url     = "recruitment"
-    weight  = 7
+    weight  = 6
 
 # Site Params
 [params]
@@ -77,10 +73,8 @@ summarylength = 10
     tagline               = "iGEM at Berkeley"
     primary_button        = "General Member Form"
     primary_button_url    = "https://forms.gle/ntxXEWLvCNaYd4pz9"
-    secondary_button      = "Recruitment Updates"
-    secondary_button_url  = "http://instagram.com/igematberkeley/"
-    tertiary_button      = "Fall 2023 Applications"
-    tertiary_button_url  = "https://linktr.ee/igematberkeley"
+    secondary_button      = "Contact us on Instagram"
+    secondary_button_url  = "https://www.instagram.com/igematberkeley/"
 
   [params.portfolio]
     enable    = true
@@ -128,6 +122,9 @@ summarylength = 10
           name = "Project Teams"
           url  = "teams"
         [[params.footer.sitemap.link]]
+          name = "CUBS"
+          url  = "cubs"
+        [[params.footer.sitemap.link]]
           name = "DeCal"
           url  = "ferb"
         [[params.footer.sitemap.link]]
@@ -151,7 +148,7 @@ summarylength = 10
       # Footer Sponsor
       [params.footer.sponsor]
         title       = "Thank You to Our Sponsors:"
-        description = "The Rulisons | Tonkomo LLC | The Pandes | The Spiegels | Geneious"
+        description = "<a href='http://mcb.berkeley.edu/labs/botchan/'>Botchan Lab</a> | Rulison Family | Tonkomo LLC | Pande Family | Spiegel Family | <a href='https://www.geneious.com'>Geneious</a>"
       # Footer Service
       [params.footer.service]
         title       = "Student Group Disclaimer:"

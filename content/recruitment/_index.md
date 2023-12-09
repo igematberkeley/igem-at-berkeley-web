@@ -1,5 +1,5 @@
 ---
-title: "Join iGEM at Berkeley!"
+title: "[Applications Closed] Join iGEM at Berkeley!"
 date: 2019-12-24T13:40:00+06:00
 image: images/blog/blog-post-01.jpg
 feature_image: images/recruitment/cubs.jpg
@@ -7,7 +7,9 @@ author: Alexender Schoitiz
 ---
 ### Apply to our Experimental or Ideation Teams!
 
-> We have several wetlab engineering and computational biology teams, each dedicated to addressing a distinct biological research question. Our experimental teams continue work on well-defined projects, while our ideation teams focus on exploring novel research areas. Joining iGEM at Berkeley helps build your technical skillset, ability to work as a team, and passion in bioengineering research. Regardless of your experience level, [check out our teams](https://igem.berkeley.edu/teams/) and consider [applying to an Experimental or Ideation Team today](https://forms.gle/c4TgnW8mzwJ5iUWt8) before applications close **September 4, 2023 at 11:59 p.m.**
+> **Thank you for your interest, but unfortunately our applications have closed for the Fall 2023 semester. Please check back in Spring 2024.**
+
+> We have several wetlab engineering and computational biology teams, each dedicated to addressing a distinct biological research question. Our experimental teams continue work on well-defined projects, while our ideation teams focus on exploring novel research areas. Joining iGEM at Berkeley helps build your technical skillset, ability to work as a team, and passion in bioengineering research. Regardless of your experience level, [check out our teams](/teams) and consider [applying to an Experimental or Ideation Team today](https://forms.gle/c4TgnW8mzwJ5iUWt8) before applications close **September 4, 2023 at 11:59 p.m.**
 
 &nbsp;
 

@@ -1,27 +1,29 @@
 ---
-title: "CUBS 2023: Cal Undergraduate BioE Symposium"
+title: "CUBS Fall 2023: December 5"
 date: 2019-12-24T13:40:00+06:00
 image: images/blog/blog-post-01.jpg
 feature_image: images/cubs/cubs.jpg
 author: Alexender Schoitiz
 ---
-### Get ready to present your BioE research!
+### Get ready to present your research!
 
-> iGEM at Berkeley is excited to bring you the second Undergraduate Bioengineering Symposium this coming spring, featuring the latest undergraduate-led BioE research, on **Tuesday, May 2nd**.
+> iGEM at Berkeley is excited to bring you a special series of posters and presentations this fall in the **Hearst Memorial Mining Building** on the University of California, Berkeley's campus. Our semesterly Undergraduate Bioengineering Symposium features the latest undergraduate-led research in the field from student organizations like ours and various independent researchers. This fall, CUBS will be on **Tuesday, December 5** from **10:00 a.m. — 3:00 p.m. PST**.
 
->Any questions? Please email <cubs@igem.berkeley.edu>, and a member will get back to you. 
+> Any questions? Please email <cubs@igem.berkeley.edu>, and a member of our club will get back to you.
+
+> If you're **interested in presenting at CUBS Fall 2023**, please take a look at the following timeline. All Berkeley undergraduates conducting bioengineering research are encouraged to send their abstracts and join us for CUBS!
 
 &nbsp;
 
 ### Timeline
 
-> **[UPDATE] Wednesday, April 12th, 11:59pm**: Abstract due (Deadline Extended from April 2)
+> **Sunday, November 12, 2023 at 11:59 p.m. PST**: Abstract due
 
-> **Early April**: Students notified of confirmed selection
+> **Mid-late November**: Students notified of confirmed selection
 
-> **Mid-late April**: Poster submission due
+> **Late November**: Poster submission due
 
-> **Tuesday, May 2nd**: Symposium @ 290 Hearst Mining Building from 12:00 - 4:00 p.m.
+> **Tuesday, December 5, 2023**: Symposium @ 290 Hearst Mining Building from 12:00 - 4:00 p.m.
 
 &nbsp;
 
@@ -31,7 +33,7 @@ Make sure your abstract meetings the following requirements:
 
 * Abstracts are limited to a maximum of 150 words. We strongly recommend abstracts are at least 100 words.
 
-* Abstracts may be submitted individually, or on behalf of a group or team; if the latter is the case, please make sure to note so accordingly on the [**Present Registration Google Form**](https://forms.gle/GjATj185Y87WbKe1A) and have a main point of contact submit the abstract for your team. 
+* Abstracts may be submitted individually, or on behalf of a group or team; if the latter is the case, please make sure to note so accordingly on the [**Presentation Registration Google Form**](https://bit.ly/fa23-cubs) and have a main point of contact submit the abstract for your team. 
 
 * A successful abstract will:
   1. Establish the motivation for the project or research undertaking (what is the problem? how has the problem been approached previously, and what are limitations to this approach?)
@@ -43,5 +45,5 @@ Make sure your abstract meetings the following requirements:
 
 * A sample abstract and formatting can be found [**here**](https://bit.ly/cubs-sample-abstract)
 
-Submit your abstract [**here**](https://bit.ly/cubs-sp23) by **Sunday, April 2nd (EXTENDED to Wednesday, April 12th)**
+Submit your abstract at [**bit.ly/fa23-cubs**](https://bit.ly/fa23-cubs) by **Sunday, November 12, 2023 at 11:59 p.m. PST**
 
