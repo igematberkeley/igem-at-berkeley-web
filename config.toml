@@ -12,8 +12,8 @@ summarylength = 10
     url     = "about"
     weight  = 1
   [[menu.nav]]
-    name    = "Community"
-    url     = "community"
+    name    = "Members"
+    url     = "members"
     weight  = 2
   [[menu.nav]]
     name    = "Finance"
@@ -29,7 +29,7 @@ summarylength = 10
     weight  = 5
   [[menu.nav]]
     name    = "Join iGEM"
-    url     = "recruitment"
+    url     = "apply"
     weight  = 6
 
 # Site Params
@@ -71,10 +71,12 @@ summarylength = 10
     background_image      = "images/backgrounds/retreat.png"
     heading               = "Join us for undergrad-led synthetic biology research, training programs, and a large community of aspiring scientists!"
     tagline               = "iGEM at Berkeley"
-    primary_button        = "General Member Form"
-    primary_button_url    = "https://forms.gle/ntxXEWLvCNaYd4pz9"
-    secondary_button      = "Contact us on Instagram"
-    secondary_button_url  = "https://www.instagram.com/igematberkeley/"
+    primary_button        = "Apply to join iGEM"
+    primary_button_url    = "/apply"
+    secondary_button      = "General Member Form"
+    secondary_button_url  = "https://forms.gle/ntxXEWLvCNaYd4pz9"
+    tertiary_button      = "Contact us on Instagram"
+    tertiary_button_url  = "https://www.instagram.com/igematberkeley/"
 
   [params.portfolio]
     enable    = true
