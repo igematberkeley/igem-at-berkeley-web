@@ -1,3 +1,18 @@
+<style>
+  .small-rounded-button {
+    border-radius: 40px; /* Rounded corners */
+    font-size: 18px; /* Smaller font size */
+    line-height: 1; /* Adjust line height for smaller button */
+    text-decoration: none; /* Optional: Removes underline from links */
+    display: inline-block; /* Aligns the button properly */
+    margin-top: 50px; /* Add space above the button */
+  }
+
+  .button-center {
+    text-align: center; /* Centers the button */
+  }
+</style>
+
 {{ with .Site.Data.counter }}
   {{ if .enable }}
   <section class="site-counter" id="counter">
@@ -18,6 +33,9 @@
           </div>
         </div>
         {{ end }}
+        <div class="col-12 button-center">
+          <a href="/apply" class="btn btn-primary small-rounded-button">Apply Today</a>
+        </div>
       </div>
     </div>
   </section>

@@ -2,11 +2,11 @@ enable : true
 heading : "SPRING 2024: KEY DATES"
 counter_item: 
   - title: "Infosession 1"
-    location: "Location TBD"
+    location: "Wheeler 202 | 8 p.m."
     number: "1/18"
   
   - title: "Infosession 2"
-    location: "Location TBD"
+    location: "Dwinelle 229 | 8 p.m."
     number: "1/22"
   
   - title: "FERB DeCals Application"
