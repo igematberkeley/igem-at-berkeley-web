@@ -2,7 +2,7 @@
 title: "Cheese Engineering"
 date: 2019-12-24T13:45:06+06:00
 image: images/blog/cheese-icon.png
-feature_image: images/blog/cheese-team.jpeg
+feature_image: images/blog/cheese-eng.jpg
 author: "Experimental: Wetlab"
 ---
 > **Project Leads: Bailey Daymo, Hanen Su**\

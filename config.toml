@@ -16,21 +16,25 @@ summarylength = 10
     url     = "members"
     weight  = 2
   [[menu.nav]]
+    name    = "Eternals"
+    url     = "eternals"
+    weight  = 3
+  [[menu.nav]]
     name    = "Finance"
     url     = "finance"
-    weight  = 3
+    weight  = 4
   [[menu.nav]]
     name    = "Teams"
     url     = "teams"
-    weight  = 4
+    weight  = 5
   [[menu.nav]]
     name    = "DeCal"
     url     = "ferb"
-    weight  = 5
+    weight  = 6
   [[menu.nav]]
     name    = "Join iGEM"
     url     = "apply"
-    weight  = 6
+    weight  = 7
 
 # Site Params
 [params]
@@ -115,8 +119,8 @@ summarylength = 10
           name = "Community"
           url  = "community"
         [[params.footer.sitemap.link]]
-          name = "Outreach"
-          url  = "outreach"
+          name = "Eternals"
+          url  = "eternals"
         [[params.footer.sitemap.link]]
           name = "Finance"
           url  = "finance"
@@ -129,9 +133,6 @@ summarylength = 10
         [[params.footer.sitemap.link]]
           name = "DeCal"
           url  = "ferb"
-        [[params.footer.sitemap.link]]
-          name = "Join iGEM"
-          url  = "recruitment"
       # Footer Social Media
       [params.footer.social]
         title   = "Social Media"
