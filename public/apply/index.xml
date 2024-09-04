@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Apply to join iGEM at Berkeley on iGEM at Berkeley</title>
-    <link>https://igem.berkeley.edu/apply/</link>
+    <link>http://localhost:1313/apply/</link>
     <description>Recent content in Apply to join iGEM at Berkeley on iGEM at Berkeley</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://igem.berkeley.edu/apply/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/apply/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

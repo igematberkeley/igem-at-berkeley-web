@@ -18,7 +18,7 @@ Once students have this background, they join our project teams to first **ideat
 
 &nbsp;
 
-![iGEM at Berkeley Organization Structure](/images/about/org.png "iGEM at Berkeley's Organization Structure")
+![iGEM at Berkeley Organization Structure](/images/about/club_structure_2024.png "iGEM at Berkeley's Organization Structure")
 
 &nbsp;
 

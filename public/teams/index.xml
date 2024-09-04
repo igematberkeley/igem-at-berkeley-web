@@ -2,73 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Experimental &amp; Ideation Teams on iGEM at Berkeley</title>
-    <link>https://igem.berkeley.edu/teams/</link>
+    <link>http://localhost:1313/teams/</link>
     <description>Recent content in Experimental &amp; Ideation Teams on iGEM at Berkeley</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Dec 2019 13:45:06 +0600</lastBuildDate>
-    <atom:link href="https://igem.berkeley.edu/teams/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/teams/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cellyse</title>
-      <link>https://igem.berkeley.edu/teams/cellyse/</link>
+      <link>http://localhost:1313/teams/cellyse/</link>
       <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
-      <guid>https://igem.berkeley.edu/teams/cellyse/</guid>
+      <guid>http://localhost:1313/teams/cellyse/</guid>
       <description>Project Leads: Ella Ramamurthy, Ellen Malham&#xA;Members: Jacob Spiegel, George Balazs, Katie Fang, Andrew Gabagat, Arthi Vaidyanathan, Samhita Nittala, Jacob Rulison (alum)</description>
     </item>
     <item>
       <title>Cheese Engineering</title>
-      <link>https://igem.berkeley.edu/teams/cheese-engineering/</link>
+      <link>http://localhost:1313/teams/cheese-engineering/</link>
       <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
-      <guid>https://igem.berkeley.edu/teams/cheese-engineering/</guid>
+      <guid>http://localhost:1313/teams/cheese-engineering/</guid>
       <description>Project Leads: Bailey Daymo, Hanen Su&#xA;Members: Kendall Hsieh, Nikhit Kambdur, Meera Kashyap</description>
     </item>
     <item>
       <title>CheRMiT</title>
-      <link>https://igem.berkeley.edu/teams/chermit/</link>
+      <link>http://localhost:1313/teams/chermit/</link>
       <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
-      <guid>https://igem.berkeley.edu/teams/chermit/</guid>
+      <guid>http://localhost:1313/teams/chermit/</guid>
       <description>Project Leads: Max Lee, Phil Xie&#xA;Members: Bryan Hsu, Daven Lim, Kira Sterling, Swathi Badrinarayanan</description>
     </item>
     <item>
       <title>Clonebots Assembly</title>
-      <link>https://igem.berkeley.edu/teams/assembly/</link>
+      <link>http://localhost:1313/teams/assembly/</link>
       <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
-      <guid>https://igem.berkeley.edu/teams/assembly/</guid>
+      <guid>http://localhost:1313/teams/assembly/</guid>
       <description>Project Leads: Pritika Acharya, Shing Gao&#xA;Members: Anika Hauser, Anish Iyyavoo, Arvind Swamynathan, Cherry Woo, Dimple Amitha Garuadapuri, Ryan Idnani</description>
     </item>
     <item>
       <title>Clonebots Deletion</title>
-      <link>https://igem.berkeley.edu/teams/deletion/</link>
+      <link>http://localhost:1313/teams/deletion/</link>
       <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
-      <guid>https://igem.berkeley.edu/teams/deletion/</guid>
+      <guid>http://localhost:1313/teams/deletion/</guid>
       <description>Project Leads: Kaitlyn Wang, Anya Raju&#xA;Members: Yoga Kanneboina, Junwoo Kim, Nicole Klein, Shelli Lewis, Rohan Rattan, Katie Sie</description>
     </item>
     <item>
-      <title>Genomics</title>
-      <link>https://igem.berkeley.edu/teams/genomics/</link>
-      <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
-      <guid>https://igem.berkeley.edu/teams/genomics/</guid>
-      <description>Project Leads: Lavanya Jain and Vibha Yellamraju&#xA;Members: Hannah Aguilar, George Ingebretsen, Madeline Foster, Sky Gastinel, Yasmeen Ibrahim</description>
-    </item>
-    <item>
       <title>Hallucinating Scaffolds</title>
-      <link>https://igem.berkeley.edu/teams/hallucinating-scaffolds/</link>
+      <link>http://localhost:1313/teams/hallucinating-scaffolds/</link>
       <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
-      <guid>https://igem.berkeley.edu/teams/hallucinating-scaffolds/</guid>
+      <guid>http://localhost:1313/teams/hallucinating-scaffolds/</guid>
       <description>Project Leads: Fenmiao Zhong, Ying-Li Su&#xA;Members: Lynn Gu, Stefan Pham, Julia Kim</description>
     </item>
     <item>
-      <title>NavGene</title>
-      <link>https://igem.berkeley.edu/teams/navgene/</link>
-      <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
-      <guid>https://igem.berkeley.edu/teams/navgene/</guid>
-      <description>Project Leads: Isha Soni, Amad Jalil&#xA;Members: Isabella Bartmess, Isabella Murray, Avani Ghate, Edward Pandji, Snigdha Jagarlapudi, Stacy Widyono</description>
-    </item>
-    <item>
       <title>Peptide Design</title>
-      <link>https://igem.berkeley.edu/teams/peptide-design/</link>
+      <link>http://localhost:1313/teams/peptide-design/</link>
       <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
-      <guid>https://igem.berkeley.edu/teams/peptide-design/</guid>
+      <guid>http://localhost:1313/teams/peptide-design/</guid>
       <description>Project Leads: Jessica Lin, Gean Hu&#xA;Members: Shreya Ramesh, Kelly Hui, Vignesh Manikandan</description>
     </item>
   </channel>
