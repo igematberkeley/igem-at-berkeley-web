@@ -78,7 +78,7 @@ summarylength = 10
     primary_button        = "Apply to join iGEM"
     primary_button_url    = "/apply"
     secondary_button      = "General Member Form"
-    secondary_button_url  = "https://forms.gle/ntxXEWLvCNaYd4pz9"
+    secondary_button_url  = "https://docs.google.com/forms/d/e/1FAIpQLSdf3GZ4lHacONnspn08-ca_0arWuRrSkgVZHPoelU54fwIz5A/viewform"
     tertiary_button      = "Contact us on Instagram"
     tertiary_button_url  = "https://www.instagram.com/igematberkeley/"
 
