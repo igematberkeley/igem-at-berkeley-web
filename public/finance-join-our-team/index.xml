@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Join Our Team on iGEM at Berkeley</title>
-    <link>http://localhost:1313/finance-join-our-team/</link>
+    <link>https://igem.berkeley.edu/finance-join-our-team/</link>
     <description>Recent content in Join Our Team on iGEM at Berkeley</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/finance-join-our-team/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://igem.berkeley.edu/finance-join-our-team/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

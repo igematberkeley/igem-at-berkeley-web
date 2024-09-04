@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eternals on iGEM at Berkeley</title>
-    <link>http://localhost:1313/eternals/</link>
+    <link>https://igem.berkeley.edu/eternals/</link>
     <description>Recent content in Eternals on iGEM at Berkeley</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/eternals/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://igem.berkeley.edu/eternals/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
