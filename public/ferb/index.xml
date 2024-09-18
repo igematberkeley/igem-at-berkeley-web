@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Foundations of Engineering Biology on iGEM at Berkeley</title>
-    <link>http://localhost:1313/ferb/</link>
+    <link>https://igem.berkeley.edu/ferb/</link>
     <description>Recent content in Foundations of Engineering Biology on iGEM at Berkeley</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/ferb/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://igem.berkeley.edu/ferb/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
