@@ -5,8 +5,8 @@ image: images/blog/assembly-icon.png
 feature_image: images/blog/assembly-team.jpg
 author: "Experimental: Wetlab"
 ---
-> **Project Leads: Pritika Acharya, Shing Gao**\
-> Members: Anika Hauser, Anish Iyyavoo, Arvind Swamynathan, Cherry Woo, Dimple Amitha Garuadapuri,  Ryan Idnani
+> **Project Leads: Arvind Swamynathan, Cherry Wu**\
+> Members: Coming soon!
 
 Traditional plasmid assembly methods (e.g. Golden Gate, Gibson) are performed *in vitro*, requiring many intermediate steps. Our team utilizes a CRISPR system to construct DNA parts *in vivo*, resulting in a faster and more efficient way to perform DNA assembly. We are presently optimizing double transformation of indicator and editor plasmids, as well as testing conjugation of pOX28 plasmids.
 
