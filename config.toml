@@ -151,7 +151,7 @@ summarylength = 10
       # Footer Sponsor
       [params.footer.sponsor]
         title       = "Thank You to Our Sponsors:"
-        description = "<a href='http://mcb.berkeley.edu/labs/botchan/'>Botchan Lab</a> | Rulison Family | Tonkomo LLC | Pande Family | Spiegel Family | Jacob Pruess | Kanjana Taedullayasatit | Stuart Russell | Sophie Hahn | Lin Tan | <a href='https://www.geneious.com'>Geneious</a>"
+        description = "<a href='http://mcb.berkeley.edu/labs/botchan/'>Botchan Lab</a> | Rulison Family | Tonkomo LLC | Pande Family | Spiegel Family | Jacob Pruess | Kanjana Taedullayasatit | Stuart Russell | Sophie Hahn | Lin Tan | <a href='https://www.geneious.com'>Geneious</a> | Michaela Healton | Shen & Namiko Chen"
       # Footer Service
       [params.footer.service]
         title       = "Student Group Disclaimer:"
