@@ -24,7 +24,7 @@ Our Fall 2022 inaugural FERB I cohort along with their Training Team directors a
 
 Class will be held twice a week in the evening and taught by our Training Team Directors. Students will be expected to complete weekly assignments varying from technique based quizzes to verbal presentations both individually and collaboratively. Grading is based on a pass/no pass system and is offered for one BioE 98 unit.
 
-To learn more about our offered DeCals, check out the [Foundations in Engineering Biology I](https://docs.google.com/document/d/1YhhyPpJ9LPFbphBI3riirGSMR59xnUKAn5MieGPPPg8/edit?usp=sharing) and [Foundations in Engineering Biology II](https://docs.google.com/document/d/1qp1VQfMmCr7lsIilsCm2E-3oXe9Sqj3tRkuM5Dxsd8A/edit?usp=sharing) Syllabi. Note that only FERB I will be offered this fall.
+To learn more about our offered DeCals, check out the [Foundations in Engineering Biology I](https://docs.google.com/document/d/1ZEyDXjwZecTnPo5emXdv38Je7-rPH2OcR7FtQFmWgOI/edit?usp=drive_link) and [Foundations in Engineering Biology II](https://docs.google.com/document/d/1qp1VQfMmCr7lsIilsCm2E-3oXe9Sqj3tRkuM5Dxsd8A/edit?usp=sharing) Syllabi. Note that only FERB I will be offered this fall.
 
 &nbsp;
 ### What happens after Training Team?
@@ -41,4 +41,4 @@ If you would like more information or have any questions, please contact the Tra
 &nbsp;
 ### History
 
-This is the third year of the Training Team, which originally began in Spring of 2021 as the Training Rotation Program (TRP) and only had about 15 students. The following year (Fall 2021), the program was revamped into the Training Team and hosted almost 100 students. During the 2022-2023 Academic Year, [Foundations in Engineering Biology (FERB)](/apply) was spearheaded with the fall semester focusing on the introductory foundations of synthetic and computational biology and the spring semester conducting a research project using fundamental wet-lab techniques. Internally, we still refer to this group of students as iGEM’s Training Team, but Foundations of Engineering Biology is the exact same thing.
+This is the fourth year of the Training Team, which originally began in Spring of 2021 as the Training Rotation Program (TRP) and only had about 15 students. The following year (Fall 2021), the program was revamped into the Training Team and hosted almost 100 students. During the 2022-2023 Academic Year, [Foundations in Engineering Biology (FERB)](/apply) was spearheaded with the fall semester focusing on the introductory foundations of synthetic and computational biology and the spring semester conducting a research project using fundamental wet-lab techniques. Internally, we still refer to this group of students as iGEM’s Training Team, but Foundations of Engineering Biology is the exact same thing.

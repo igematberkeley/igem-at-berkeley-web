@@ -1,20 +1,20 @@
 enable : true
-heading : "FALL 2024: KEY DATES"
+heading : "SPRING 2025: KEY DATES"
 counter_item: 
-  - title: "Infosession 1"
-    location: "Wheeler 222/Zoom"
-    time: "8-9 PM"
-    number: "9/3"
+  - title: "Infosession #1"
+    location: "HMMB 290/Zoom"
+    time: "7-8 PM"
+    number: "1/28"
   
-  - title: "Infosession 2"
-    location: "Wheeler 222/Zoom"
-    time: "8-9 PM"
-    number: "9/4"
+  - title: "Infosession #2"
+    location: "HMMB 290/Zoom"
+    time: "7-8 PM"
+    number: "1/29"
   
   - title: "Project Teams Application"
-    location: "Final Deadline @ 11 AM"
-    number: "9/9"
+    location: "Final Deadline @ Midnight"
+    number: "1/31"
 
   - title: "FERB Decal Application"
-    location: "Final Deadline @ Midnight"
-    number: "9/10"
+    location: "Final Deadline @ Noon"
+    number: "2/5"
