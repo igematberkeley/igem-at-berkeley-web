@@ -28,10 +28,10 @@ With our team, you’ll learn how to write grant proposals, network with biotech
 > If you’re interested in joining our team and have more questions, please contact us at <directors@igem.berkeley.edu>.
 >
 > To contact the Directors of Finance, email: 
-* Shreya Jariwala: <shreyj7@berkeley.edu>
-* Jolyn Hoang: <jolynhoang@berkeley.edu>
+* Maggie Mei: <maggie_mei@berkeley.edu>
+* Matthew Wang: <matthew_wang@berkeley.edu>
 
 &nbsp;
 
-> Our Finance Team is recruiting for the Spring 2025 semester! If you're interested in joining, please [sign up for an interview](https://calendly.com/jolynhoang/igem-finance-interview-sign-ups).
+> Our Finance Team is recruiting for the Fall 2025 semester! If you're interested in joining, please [fill out an application and sign up for an interview](https://forms.gle/5fAZc3GvVcghVLrw7).
 

@@ -11,5 +11,5 @@ Our Eternals Team (formally Outreach) coordinates, plans, and hosts events, like
 
 Eternals is divided into two subteams: External and Internal. Each team is responsible for different aspects of outreach, but work collectively as a group to bring all of iGEM's exciting events to you. 
 
-> If you're interested in networking, marketing, or designing for Berkeley's only hands-on genetic engineering club for undergraduates, [join the Eternals Team](/apply).
+> If you're interested in networking, marketing, or designing for Berkeley's only hands-on genetic engineering club for undergraduates, [join the External and Internal Teams](/apply).
 
