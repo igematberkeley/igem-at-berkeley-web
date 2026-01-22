@@ -33,5 +33,5 @@ With our team, you’ll learn how to write grant proposals, network with biotech
 
 &nbsp;
 
-> Our Finance Team is recruiting for the Fall 2025 semester! If you're interested in joining, please [fill out an application and sign up for an interview](https://forms.gle/5fAZc3GvVcghVLrw7).
+> Our Finance Team is recruiting for the Spring 2026 semester! If you're interested in joining, please [fill out an application and sign up for an interview](https://forms.gle/5fAZc3GvVcghVLrw7).
 
