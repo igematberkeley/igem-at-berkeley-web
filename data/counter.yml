@@ -1,20 +1,20 @@
 enable : true
-heading : "FALL 2025: KEY DATES"
+heading : "SPRING 2026: KEY DATES"
 counter_item: 
   - title: "Infosession #1"
-    location: "Dwinelle 87/Zoom"
+    location: "Dwinelle 223/Zoom"
     time: "8-9 PM"
-    number: "9/2"
+    number: "1/26"
   
   - title: "Infosession #2"
-    location: "GPBB 103/Zoom"
+    location: "Evans 3/Zoom"
     time: "8-9 PM"
-    number: "9/3"
+    number: "1/29"
   
-  - title: "Project Teams Application"
+  - title: "Project Teams, FERB DeCal/TA Application"
     location: "Final Deadline @ Midnight"
-    number: "9/4"
+    number: "1/30"
 
-  - title: "FERB DeCal/TA Applications"
+  - title: "External, Internal, Finance Applications"
     location: "Final Deadline @ Midnight"
-    number: "9/5"
+    number: "2/2"

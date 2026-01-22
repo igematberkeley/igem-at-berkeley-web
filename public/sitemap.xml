@@ -2,90 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://igem.berkeley.edu/teams/cheese-engineering/</loc>
+    <loc>http://localhost:1313/teams/cheese-engineering/</loc>
     <lastmod>2019-12-24T13:45:06+06:00</lastmod>
   </url><url>
-    <loc>https://igem.berkeley.edu/teams/chermit/</loc>
+    <loc>http://localhost:1313/teams/chermit/</loc>
     <lastmod>2019-12-24T13:45:06+06:00</lastmod>
   </url><url>
-    <loc>https://igem.berkeley.edu/teams/assembly/</loc>
+    <loc>http://localhost:1313/teams/assembly/</loc>
     <lastmod>2019-12-24T13:45:06+06:00</lastmod>
   </url><url>
-    <loc>https://igem.berkeley.edu/teams/deletion/</loc>
+    <loc>http://localhost:1313/teams/deletion/</loc>
     <lastmod>2019-12-24T13:45:06+06:00</lastmod>
   </url><url>
-    <loc>https://igem.berkeley.edu/teams/hallucinating-scaffolds/</loc>
+    <loc>http://localhost:1313/teams/hallucinating-scaffolds/</loc>
     <lastmod>2019-12-24T13:45:06+06:00</lastmod>
   </url><url>
-    <loc>https://igem.berkeley.edu/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2019-12-24T13:45:06+06:00</lastmod>
   </url><url>
-    <loc>https://igem.berkeley.edu/teams/peptide-design/</loc>
+    <loc>http://localhost:1313/teams/peptide-design/</loc>
     <lastmod>2019-12-24T13:45:06+06:00</lastmod>
   </url><url>
-    <loc>https://igem.berkeley.edu/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2019-12-24T13:40:00+06:00</lastmod>
   </url><url>
-    <loc>https://igem.berkeley.edu/apply/</loc>
+    <loc>http://localhost:1313/apply/</loc>
     <lastmod>2019-12-24T13:40:00+06:00</lastmod>
   </url><url>
-    <loc>https://igem.berkeley.edu/finance-be-a-partner/</loc>
+    <loc>http://localhost:1313/finance-be-a-partner/</loc>
     <lastmod>2019-12-24T13:40:00+06:00</lastmod>
   </url><url>
-    <loc>https://igem.berkeley.edu/bib/</loc>
+    <loc>http://localhost:1313/bib/</loc>
     <lastmod>2019-12-24T13:40:00+06:00</lastmod>
   </url><url>
-    <loc>https://igem.berkeley.edu/members/</loc>
+    <loc>http://localhost:1313/members/</loc>
     <lastmod>2019-12-24T13:40:00+06:00</lastmod>
   </url><url>
-    <loc>https://igem.berkeley.edu/cubs/</loc>
+    <loc>http://localhost:1313/cubs/</loc>
     <lastmod>2019-12-24T13:40:00+06:00</lastmod>
   </url><url>
-    <loc>https://igem.berkeley.edu/eternals/</loc>
+    <loc>http://localhost:1313/eternals/</loc>
     <lastmod>2019-12-24T13:40:00+06:00</lastmod>
   </url><url>
-    <loc>https://igem.berkeley.edu/finance/</loc>
+    <loc>http://localhost:1313/finance/</loc>
     <lastmod>2019-12-24T13:40:00+06:00</lastmod>
   </url><url>
-    <loc>https://igem.berkeley.edu/ferb/</loc>
+    <loc>http://localhost:1313/ferb/</loc>
     <lastmod>2019-12-24T13:40:00+06:00</lastmod>
   </url><url>
-    <loc>https://igem.berkeley.edu/proposals/</loc>
+    <loc>http://localhost:1313/proposals/</loc>
     <lastmod>2019-12-24T13:40:00+06:00</lastmod>
   </url><url>
-    <loc>https://igem.berkeley.edu/finance-join-our-team/</loc>
+    <loc>http://localhost:1313/finance-join-our-team/</loc>
     <lastmod>2019-12-24T13:40:00+06:00</lastmod>
   </url><url>
-    <loc>https://igem.berkeley.edu/portfolio/kio-tape-2/</loc>
+    <loc>http://localhost:1313/portfolio/kio-tape-2/</loc>
     <lastmod>2019-12-23T20:56:42+06:00</lastmod>
   </url><url>
-    <loc>https://igem.berkeley.edu/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2019-12-23T20:17:01+06:00</lastmod>
   </url><url>
-    <loc>https://igem.berkeley.edu/teams/</loc>
+    <loc>http://localhost:1313/teams/</loc>
     <lastmod>2019-12-23T20:17:01+06:00</lastmod>
   </url><url>
-    <loc>https://igem.berkeley.edu/portfolio/</loc>
+    <loc>http://localhost:1313/portfolio/</loc>
     <lastmod>2019-12-23T16:48:28+06:00</lastmod>
   </url><url>
-    <loc>https://igem.berkeley.edu/portfolio/use-less-brand/</loc>
+    <loc>http://localhost:1313/portfolio/use-less-brand/</loc>
     <lastmod>2019-12-23T15:58:10+06:00</lastmod>
   </url><url>
-    <loc>https://igem.berkeley.edu/portfolio/osen-clock/</loc>
+    <loc>http://localhost:1313/portfolio/osen-clock/</loc>
     <lastmod>2019-12-23T15:56:43+06:00</lastmod>
   </url><url>
-    <loc>https://igem.berkeley.edu/portfolio/seamless-watch/</loc>
+    <loc>http://localhost:1313/portfolio/seamless-watch/</loc>
     <lastmod>2019-12-23T15:55:44+06:00</lastmod>
   </url><url>
-    <loc>https://igem.berkeley.edu/portfolio/kio-tape/</loc>
+    <loc>http://localhost:1313/portfolio/kio-tape/</loc>
     <lastmod>2019-12-23T15:44:46+06:00</lastmod>
   </url><url>
-    <loc>https://igem.berkeley.edu/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://igem.berkeley.edu/leadership/</loc>
+    <loc>http://localhost:1313/leadership/</loc>
   </url><url>
-    <loc>https://igem.berkeley.edu/leadership/page/</loc>
+    <loc>http://localhost:1313/leadership/page/</loc>
   </url><url>
-    <loc>https://igem.berkeley.edu/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
